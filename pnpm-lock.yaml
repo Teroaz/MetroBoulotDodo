@@ -4,12 +4,14 @@ specifiers:
   '@types/react': ^18.0.17
   '@types/react-dom': ^18.0.6
   '@vitejs/plugin-react': ^2.1.0
+  milligram: ^1.4.1
   react: ^18.2.0
   react-dom: ^18.2.0
   typescript: ^4.6.4
   vite: ^3.1.0
 
 dependencies:
+  milligram: 1.4.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
 
@@ -731,6 +733,12 @@ packages:
       sourcemap-codec: 1.4.8
     dev: true
 
+  /milligram/1.4.1:
+    resolution: {integrity: sha512-RCgh/boHhcXWOUfKJWm3RJRoUeaEguoipDg0mJ31G0tFfvcpWMUlO1Zlqqr12K4kAXfDlllaidu0x7PaL2PTFg==}
+    dependencies:
+      normalize.css: 8.0.1
+    dev: false
+
   /ms/2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
     dev: true
@@ -744,6 +752,10 @@ packages:
   /node-releases/2.0.6:
     resolution: {integrity: sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==}
     dev: true
+
+  /normalize.css/8.0.1:
+    resolution: {integrity: sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==}
+    dev: false
 
   /path-parse/1.0.7:
     resolution: {integrity: sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==}
