@@ -1,0 +1,5101 @@
+{
+    "stations": [
+        {
+            "id": 0,
+            "name": "Abbesses",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 1,
+            "name": "Alexandre Dumas",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 2,
+            "name": "Alma Marceau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 3,
+            "name": "Alésia",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 4,
+            "name": "Anatole France",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 5,
+            "name": "Anvers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 6,
+            "name": "Argentine",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 7,
+            "name": "Arts et Métiers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 8,
+            "name": "Arts et Métiers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 9,
+            "name": "Assemblée Nationale",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 10,
+            "name": "Aubervilliers-Pantin, Quatre Chemins",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 11,
+            "name": "Avenue Émile Zola",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 12,
+            "name": "Avron",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 13,
+            "name": "Barbès Rochechouart",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 14,
+            "name": "Barbès Rochechouart",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 15,
+            "name": "Basilique de Saint-Denis",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 16,
+            "name": "Bastille",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 17,
+            "name": "Bastille",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 18,
+            "name": "Bastille",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 19,
+            "name": "Bel Air",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 20,
+            "name": "Belleville",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 21,
+            "name": "Belleville",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 22,
+            "name": "Bercy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 23,
+            "name": "Bercy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 24,
+            "name": "Bibliothèque François Mitterand",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 25,
+            "name": "Billancourt",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 26,
+            "name": "Bir-Hakeim",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 27,
+            "name": "Blanche",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 28,
+            "name": "Bobigny, Pablo Picasso",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 29,
+            "name": "Bobigny-Pantin, Raymond Queneau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 30,
+            "name": "Boissière",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 31,
+            "name": "Bolivar",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 32,
+            "name": "Bonne Nouvelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 33,
+            "name": "Bonne Nouvelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 34,
+            "name": "Botzaris",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 35,
+            "name": "Boucicaut",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 36,
+            "name": "Boulogne, Jean Jaurès",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 37,
+            "name": "Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 38,
+            "name": "Bourse",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 39,
+            "name": "Brochant",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 40,
+            "name": "Bréguet-Sabin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 41,
+            "name": "Buttes Chaumont",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 42,
+            "name": "Buzenval",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 43,
+            "name": "Bérault",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 44,
+            "name": "Cadet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 45,
+            "name": "Cambronne",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 46,
+            "name": "Campo-Formio",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 47,
+            "name": "Cardinal Lemoine",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 48,
+            "name": "Carrefour Pleyel",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 49,
+            "name": "Censier Daubenton",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 50,
+            "name": "Champs Élysées, Clémenceau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 51,
+            "name": "Champs Élysées, Clémenceau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 52,
+            "name": "Chardon Lagâche",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 53,
+            "name": "Charenton-Écoles",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 54,
+            "name": "Charles Michels",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 55,
+            "name": "Charles de Gaulle, Étoile",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 56,
+            "name": "Charles de Gaulle, Étoile",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 57,
+            "name": "Charles de Gaulle, Étoile",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 58,
+            "name": "Charonne",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 59,
+            "name": "Chaussée d'Antin, La Fayette",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 60,
+            "name": "Chaussée d'Antin, La Fayette",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 61,
+            "name": "Chemin Vert",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 62,
+            "name": "Chevaleret",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 63,
+            "name": "Château Landon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 64,
+            "name": "Château Rouge",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 65,
+            "name": "Château d'Eau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 66,
+            "name": "Château de Vincennes",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 67,
+            "name": "Châtelet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 68,
+            "name": "Châtelet",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 69,
+            "name": "Châtelet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 70,
+            "name": "Châtelet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 71,
+            "name": "Châtelet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 72,
+            "name": "Châtillon-Montrouge",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 73,
+            "name": "Cité",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 74,
+            "name": "Cluny, La Sorbonne",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 75,
+            "name": "Colonel Fabien",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 76,
+            "name": "Commerce",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 77,
+            "name": "Concorde",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 78,
+            "name": "Concorde",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 79,
+            "name": "Concorde",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 80,
+            "name": "Convention",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 81,
+            "name": "Corentin Celton",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 82,
+            "name": "Corentin-Cariou",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 83,
+            "name": "Corvisart",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 84,
+            "name": "Cour Saint-Émilion",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 85,
+            "name": "Courcelles",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 86,
+            "name": "Couronnes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 87,
+            "name": "Crimée",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 88,
+            "name": "Croix de Chavaux",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 89,
+            "name": "Créteil-Préfecture",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 90,
+            "name": "Créteil-Université",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 91,
+            "name": "Créteil-l'Echat, Hôpital Henri Mondor",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 92,
+            "name": "Danube",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 93,
+            "name": "Daumesnil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 94,
+            "name": "Daumesnil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 95,
+            "name": "Denfert Rochereau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 96,
+            "name": "Denfert Rochereau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 97,
+            "name": "Dugommier",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 98,
+            "name": "Dupleix",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 99,
+            "name": "Duroc",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 100,
+            "name": "Duroc",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 101,
+            "name": "Edgar Quinet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 102,
+            "name": "Esplanade de la Défense",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 103,
+            "name": "Europe",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 104,
+            "name": "Exelmans",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 105,
+            "name": "Faidherbe-Chaligny",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 106,
+            "name": "Falguière",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 107,
+            "name": "Filles du Calvaire",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 108,
+            "name": "Fort d'Aubervilliers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 109,
+            "name": "Franklin D. Roosevelt",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 110,
+            "name": "Franklin D. Roosevelt",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 111,
+            "name": "Félix Faure",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 112,
+            "name": "Gabriel Péri, Asnières-Gennevilliers",
+            "isTerminus": true,
+            "branchementType": 2
+        },
+        {
+            "id": 113,
+            "name": "Gaité",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 114,
+            "name": "Galliéni",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 115,
+            "name": "Gambetta",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 116,
+            "name": "Gambetta",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 117,
+            "name": "Gare d'Austerlitz",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 118,
+            "name": "Gare d'Austerlitz",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 119,
+            "name": "Gare de Lyon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 120,
+            "name": "Gare de Lyon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 121,
+            "name": "Gare de l'Est",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 122,
+            "name": "Gare de l'Est",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 123,
+            "name": "Gare de l'Est",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 124,
+            "name": "Gare du Nord",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 125,
+            "name": "Gare du Nord",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 126,
+            "name": "Garibaldi",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 127,
+            "name": "George V",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 128,
+            "name": "Glacière",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 129,
+            "name": "Goncourt",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 130,
+            "name": "Grande Arche de la Défense",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 131,
+            "name": "Guy Môquet",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 132,
+            "name": "Havre Caumartin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 133,
+            "name": "Havre Caumartin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 134,
+            "name": "Hoche",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 135,
+            "name": "Hôtel de Ville",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 136,
+            "name": "Hôtel de Ville",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 137,
+            "name": "Invalides",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 138,
+            "name": "Invalides",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 139,
+            "name": "Iéna",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 140,
+            "name": "Jacques Bonsergent",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 141,
+            "name": "Jasmin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 142,
+            "name": "Jaurès",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 143,
+            "name": "Jaurès",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 144,
+            "name": "Jaurès",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 145,
+            "name": "Javel",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 146,
+            "name": "Jourdain",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 147,
+            "name": "Jules Joffrin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 148,
+            "name": "Jussieu",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 149,
+            "name": "Jussieu",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 150,
+            "name": "Kléber",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 151,
+            "name": "La Chapelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 152,
+            "name": "La Courneuve, 8 Mai 1945",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 153,
+            "name": "La Fourche",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 154,
+            "name": "La Motte Picquet, Grenelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 155,
+            "name": "La Motte Picquet, Grenelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 156,
+            "name": "La Motte Picquet, Grenelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 157,
+            "name": "La Muette",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 158,
+            "name": "La Tour-Maubourg",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 159,
+            "name": "Lamarck Caulaincourt",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 160,
+            "name": "Laumière",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 161,
+            "name": "Le Kremlin-Bicêtre",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 162,
+            "name": "Le Peletier",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 163,
+            "name": "Ledru Rollin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 164,
+            "name": "Les Gobelins",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 165,
+            "name": "Les Halles",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 166,
+            "name": "Les Sablons",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 167,
+            "name": "Liberté",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 168,
+            "name": "Liège",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 169,
+            "name": "Louis Blanc",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 170,
+            "name": "Louis Blanc",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 171,
+            "name": "Louise Michel",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 172,
+            "name": "Lourmel",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 173,
+            "name": "Louvre, Rivoli",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 174,
+            "name": "Mabillon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 175,
+            "name": "Madeleine",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 176,
+            "name": "Madeleine",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 177,
+            "name": "Madeleine",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 178,
+            "name": "Mairie d'Issy",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 179,
+            "name": "Mairie d'Ivry",
+            "isTerminus": true,
+            "branchementType": 1
+        },
+        {
+            "id": 180,
+            "name": "Mairie de Clichy",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 181,
+            "name": "Mairie de Montreuil",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 182,
+            "name": "Mairie de Saint-Ouen",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 183,
+            "name": "Mairie des Lilas",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 184,
+            "name": "Maison Blanche",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 185,
+            "name": "Maisons-Alfort les Juilliottes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 186,
+            "name": "Maisons-Alfort, Stade",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 187,
+            "name": "Malakoff-Plateau de Vanves",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 188,
+            "name": "Malakoff-Rue Étienne Dolet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 189,
+            "name": "Malesherbes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 190,
+            "name": "Maraîchers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 191,
+            "name": "Marcadet Poissonniers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 192,
+            "name": "Marcadet Poissonniers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 193,
+            "name": "Marcel Sembat",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 194,
+            "name": "Marx Dormoy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 195,
+            "name": "Maubert Mutualité",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 196,
+            "name": "Michel Ange Auteuil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 197,
+            "name": "Michel Ange Auteuil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 198,
+            "name": "Michel Ange Molitor",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 199,
+            "name": "Michel Ange Molitor",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 200,
+            "name": "Michel Bizot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 201,
+            "name": "Mirabeau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 202,
+            "name": "Miromesnil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 203,
+            "name": "Miromesnil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 204,
+            "name": "Monceau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 205,
+            "name": "Montgallet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 206,
+            "name": "Montparnasse Bienvenue",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 207,
+            "name": "Montparnasse Bienvenue",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 208,
+            "name": "Montparnasse Bienvenue",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 209,
+            "name": "Montparnasse Bienvenue",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 210,
+            "name": "Mouton-Duvernet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 211,
+            "name": "Ménilmontant",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 212,
+            "name": "Nation",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 213,
+            "name": "Nation",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 214,
+            "name": "Nation",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 215,
+            "name": "Nation",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 216,
+            "name": "Nationale",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 217,
+            "name": "Notre Dame de Lorette",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 218,
+            "name": "Notre-Dame-des-Champs",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 219,
+            "name": "Oberkampf",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 220,
+            "name": "Oberkampf",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 221,
+            "name": "Odéon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 222,
+            "name": "Odéon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 223,
+            "name": "Opéra",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 224,
+            "name": "Opéra",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 225,
+            "name": "Opéra",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 226,
+            "name": "Ourcq",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 227,
+            "name": "Palais Royal, Musée du Louvre",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 228,
+            "name": "Palais Royal, Musée du Louvre",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 229,
+            "name": "Parmentier",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 230,
+            "name": "Passy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 231,
+            "name": "Pasteur",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 232,
+            "name": "Pasteur",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 233,
+            "name": "Pelleport",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 234,
+            "name": "Pernety",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 235,
+            "name": "Philippe-Auguste",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 236,
+            "name": "Picpus",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 237,
+            "name": "Pierre Curie",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 238,
+            "name": "Pigalle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 239,
+            "name": "Pigalle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 240,
+            "name": "Place Balard",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 241,
+            "name": "Place Monge",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 242,
+            "name": "Place d'Italie",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 243,
+            "name": "Place d'Italie",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 244,
+            "name": "Place d'Italie",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 245,
+            "name": "Place de Clichy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 246,
+            "name": "Place de Clichy",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 247,
+            "name": "Place des Fêtes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 248,
+            "name": "Place des Fêtes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 249,
+            "name": "Plaisance",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 250,
+            "name": "Poissonnière",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 251,
+            "name": "Pont de Levallois, Bécon",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 252,
+            "name": "Pont de Neuilly",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 253,
+            "name": "Pont de Sèvres",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 254,
+            "name": "Pont-Marie",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 255,
+            "name": "Pont-Neuf",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 256,
+            "name": "Porte Dauphine",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 257,
+            "name": "Porte Dorée",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 258,
+            "name": "Porte Maillot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 259,
+            "name": "Porte d'Auteuil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 260,
+            "name": "Porte d'Italie",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 261,
+            "name": "Porte d'Ivry",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 262,
+            "name": "Porte d'Orléans",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 263,
+            "name": "Porte de Bagnolet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 264,
+            "name": "Porte de Champerret",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 265,
+            "name": "Porte de Charenton",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 266,
+            "name": "Porte de Choisy",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 267,
+            "name": "Porte de Clichy",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 268,
+            "name": "Porte de Clignancourt",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 269,
+            "name": "Porte de Montreuil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 270,
+            "name": "Porte de Pantin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 271,
+            "name": "Porte de Saint-Cloud",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 272,
+            "name": "Porte de Saint-Ouen",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 273,
+            "name": "Porte de Vanves",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 274,
+            "name": "Porte de Versailles",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 275,
+            "name": "Porte de Vincennes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 276,
+            "name": "Porte de la Chapelle",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 277,
+            "name": "Porte de la Villette",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 278,
+            "name": "Porte des Lilas",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 279,
+            "name": "Porte des Lilas",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 280,
+            "name": "Pré-Saint-Gervais",
+            "isTerminus": true,
+            "branchementType": 0
+        },
+        {
+            "id": 281,
+            "name": "Pyramides",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 282,
+            "name": "Pyramides",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 283,
+            "name": "Pyrénées",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 284,
+            "name": "Père Lachaise",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 285,
+            "name": "Père Lachaise",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 286,
+            "name": "Péreire",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 287,
+            "name": "Quai de la Gare",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 288,
+            "name": "Quai de la Rapée",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 289,
+            "name": "Quatre Septembre",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 290,
+            "name": "Rambuteau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 291,
+            "name": "Ranelagh",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 292,
+            "name": "Raspail",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 293,
+            "name": "Raspail",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 294,
+            "name": "Rennes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 295,
+            "name": "Reuilly Diderot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 296,
+            "name": "Reuilly Diderot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 297,
+            "name": "Richard Lenoir",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 298,
+            "name": "Richelieu Drouot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 299,
+            "name": "Richelieu Drouot",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 300,
+            "name": "Riquet",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 301,
+            "name": "Robespierre",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 302,
+            "name": "Rome",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 303,
+            "name": "Rue Montmartre, Grands Boulevards",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 304,
+            "name": "Rue Montmartre, Grands Boulevards",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 305,
+            "name": "Rue Saint-Maur",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 306,
+            "name": "Rue de la Pompe",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 307,
+            "name": "Rue des Boulets",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 308,
+            "name": "Rue du Bac",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 309,
+            "name": "Réaumur Sébastopol",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 310,
+            "name": "Réaumur Sébastopol",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 311,
+            "name": "République",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 312,
+            "name": "République",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 313,
+            "name": "République",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 314,
+            "name": "République",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 315,
+            "name": "République",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 316,
+            "name": "Saint-Ambroise",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 317,
+            "name": "Saint-Augustin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 318,
+            "name": "Saint-Denis-Porte de Paris",
+            "isTerminus": false,
+            "branchementType": 1
+        },
+        {
+            "id": 319,
+            "name": "Saint-Denis-Université",
+            "isTerminus": true,
+            "branchementType": 1
+        },
+        {
+            "id": 320,
+            "name": "Saint-Fargeau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 321,
+            "name": "Saint-Francois Xavier",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 322,
+            "name": "Saint-Georges",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 323,
+            "name": "Saint-Germain-des-Prés",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 324,
+            "name": "Saint-Jacques",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 325,
+            "name": "Saint-Lazare",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 326,
+            "name": "Saint-Lazare",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 327,
+            "name": "Saint-Lazare",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 328,
+            "name": "Saint-Mandé, Tourelle",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 329,
+            "name": "Saint-Marcel",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 330,
+            "name": "Saint-Michel",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 331,
+            "name": "Saint-Paul, Le Marais",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 332,
+            "name": "Saint-Philippe du Roule",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 333,
+            "name": "Saint-Placide",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 334,
+            "name": "Saint-Sulpice",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 335,
+            "name": "Saint-Sébastien-Froissart",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 336,
+            "name": "Sentier",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 337,
+            "name": "Simplon",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 338,
+            "name": "Solférino",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 339,
+            "name": "Stalingrad",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 340,
+            "name": "Stalingrad",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 341,
+            "name": "Stalingrad",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 342,
+            "name": "Strasbourg Saint-Denis",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 343,
+            "name": "Strasbourg Saint-Denis",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 344,
+            "name": "Strasbourg Saint-Denis",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 345,
+            "name": "Sully Morland",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 346,
+            "name": "Sèvres Babylone",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 347,
+            "name": "Sèvres Babylone",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 348,
+            "name": "Sèvres Lecourbe",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 349,
+            "name": "Ségur",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 350,
+            "name": "Temple",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 351,
+            "name": "Ternes",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 352,
+            "name": "Tolbiac",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 353,
+            "name": "Trinité d'Estienne d'Orves",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 354,
+            "name": "Trocadéro",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 355,
+            "name": "Trocadéro",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 356,
+            "name": "Tuileries",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 357,
+            "name": "Télégraphe",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 358,
+            "name": "Vaneau",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 359,
+            "name": "Varenne",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 360,
+            "name": "Vaugirard",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 361,
+            "name": "Vavin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 362,
+            "name": "Victor Hugo",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 363,
+            "name": "Villejuif, Louis Aragon",
+            "isTerminus": true,
+            "branchementType": 2
+        },
+        {
+            "id": 364,
+            "name": "Villejuif, Léo Lagrange",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 365,
+            "name": "Villejuif, P. Vaillant Couturier",
+            "isTerminus": false,
+            "branchementType": 2
+        },
+        {
+            "id": 366,
+            "name": "Villiers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 367,
+            "name": "Villiers",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 368,
+            "name": "Volontaires",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 369,
+            "name": "Voltaire",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 370,
+            "name": "Wagram",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 371,
+            "name": "École Militaire",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 372,
+            "name": "École Vétérinaire de Maisons-Alfort",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 373,
+            "name": "Église d'Auteuil",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 374,
+            "name": "Église de Pantin",
+            "isTerminus": false,
+            "branchementType": 0
+        },
+        {
+            "id": 375,
+            "name": "Étienne Marcel",
+            "isTerminus": false,
+            "branchementType": 0
+        }
+    ],
+    "lines": [
+        {
+            "name": "12",
+            "color": "#007a53",
+            "stations": [
+                0,
+                9,
+                78,
+                80,
+                81,
+                106,
+                147,
+                159,
+                175,
+                178,
+                191,
+                194,
+                206,
+                217,
+                218,
+                231,
+                238,
+                274,
+                276,
+                294,
+                308,
+                322,
+                325,
+                338,
+                347,
+                353,
+                360,
+                368
+            ]
+        },
+        {
+            "name": "2",
+            "color": "#003da5",
+            "stations": [
+                1,
+                5,
+                12,
+                13,
+                21,
+                27,
+                56,
+                75,
+                85,
+                86,
+                142,
+                151,
+                204,
+                211,
+                213,
+                235,
+                239,
+                246,
+                256,
+                284,
+                302,
+                339,
+                351,
+                362,
+                366
+            ]
+        },
+        {
+            "name": "9",
+            "color": "#b5bd00",
+            "stations": [
+                2,
+                25,
+                33,
+                42,
+                58,
+                60,
+                88,
+                104,
+                110,
+                133,
+                139,
+                141,
+                157,
+                181,
+                190,
+                193,
+                197,
+                199,
+                203,
+                215,
+                220,
+                253,
+                269,
+                271,
+                291,
+                299,
+                301,
+                304,
+                306,
+                307,
+                315,
+                316,
+                317,
+                332,
+                344,
+                355,
+                369
+            ]
+        },
+        {
+            "name": "4",
+            "color": "#c800a1",
+            "stations": [
+                3,
+                14,
+                64,
+                65,
+                70,
+                73,
+                95,
+                121,
+                124,
+                165,
+                192,
+                208,
+                210,
+                222,
+                262,
+                268,
+                292,
+                310,
+                323,
+                330,
+                333,
+                334,
+                337,
+                342,
+                361,
+                375
+            ]
+        },
+        {
+            "name": "3",
+            "color": "#827a04",
+            "stations": [
+                4,
+                8,
+                38,
+                103,
+                114,
+                115,
+                132,
+                171,
+                189,
+                223,
+                229,
+                251,
+                263,
+                264,
+                285,
+                286,
+                289,
+                305,
+                309,
+                312,
+                327,
+                336,
+                350,
+                367,
+                370
+            ]
+        },
+        {
+            "name": "1",
+            "color": "#ffcd00",
+            "stations": [
+                6,
+                16,
+                43,
+                50,
+                55,
+                66,
+                67,
+                77,
+                102,
+                109,
+                119,
+                127,
+                130,
+                135,
+                166,
+                173,
+                212,
+                227,
+                252,
+                258,
+                275,
+                295,
+                328,
+                331,
+                356
+            ]
+        },
+        {
+            "name": "11",
+            "color": "#6e4c1e",
+            "stations": [
+                7,
+                20,
+                68,
+                129,
+                136,
+                146,
+                183,
+                247,
+                278,
+                283,
+                290,
+                311,
+                357
+            ]
+        },
+        {
+            "name": "7",
+            "color": "#f59bbb",
+            "stations": [
+                10,
+                44,
+                49,
+                59,
+                63,
+                71,
+                82,
+                87,
+                108,
+                123,
+                149,
+                152,
+                161,
+                162,
+                164,
+                169,
+                179,
+                184,
+                224,
+                228,
+                237,
+                241,
+                244,
+                250,
+                254,
+                255,
+                260,
+                261,
+                266,
+                277,
+                282,
+                300,
+                341,
+                345,
+                352,
+                363,
+                364,
+                365
+            ]
+        },
+        {
+            "name": "10",
+            "color": "#c69214",
+            "stations": [
+                11,
+                36,
+                37,
+                47,
+                52,
+                54,
+                74,
+                99,
+                117,
+                145,
+                148,
+                154,
+                174,
+                195,
+                196,
+                198,
+                201,
+                221,
+                259,
+                346,
+                349,
+                358,
+                373
+            ]
+        },
+        {
+            "name": "13",
+            "color": "#71c5e8",
+            "stations": [
+                15,
+                39,
+                48,
+                51,
+                72,
+                100,
+                112,
+                113,
+                126,
+                131,
+                137,
+                153,
+                168,
+                180,
+                182,
+                187,
+                188,
+                202,
+                207,
+                234,
+                245,
+                249,
+                267,
+                272,
+                273,
+                318,
+                319,
+                321,
+                326,
+                359
+            ]
+        },
+        {
+            "name": "5",
+            "color": "#ff7f32",
+            "stations": [
+                17,
+                28,
+                29,
+                40,
+                46,
+                118,
+                122,
+                125,
+                134,
+                140,
+                143,
+                160,
+                219,
+                226,
+                242,
+                270,
+                288,
+                297,
+                313,
+                329,
+                340,
+                374
+            ]
+        },
+        {
+            "name": "8",
+            "color": "#dd9cdf",
+            "stations": [
+                18,
+                32,
+                35,
+                53,
+                61,
+                76,
+                79,
+                89,
+                90,
+                91,
+                94,
+                105,
+                107,
+                111,
+                138,
+                156,
+                158,
+                163,
+                167,
+                172,
+                177,
+                185,
+                186,
+                200,
+                205,
+                225,
+                240,
+                257,
+                265,
+                296,
+                298,
+                303,
+                314,
+                335,
+                343,
+                371,
+                372
+            ]
+        },
+        {
+            "name": "6",
+            "color": "#71cc98",
+            "stations": [
+                19,
+                23,
+                26,
+                30,
+                45,
+                57,
+                62,
+                83,
+                93,
+                96,
+                97,
+                98,
+                101,
+                128,
+                150,
+                155,
+                209,
+                214,
+                216,
+                230,
+                232,
+                236,
+                243,
+                287,
+                293,
+                324,
+                348,
+                354
+            ]
+        },
+        {
+            "name": "14",
+            "color": "#5f259f",
+            "stations": [
+                22,
+                24,
+                69,
+                84,
+                120,
+                176,
+                281
+            ]
+        },
+        {
+            "name": "7bis",
+            "color": "#71cc98",
+            "stations": [
+                31,
+                34,
+                41,
+                92,
+                144,
+                170,
+                248,
+                280
+            ]
+        },
+        {
+            "name": "3bis",
+            "color": "#71c5e8",
+            "stations": [
+                116,
+                233,
+                279,
+                320
+            ]
+        }
+    ],
+    "paths": [
+        {
+            "first": 0,
+            "second": 238,
+            "time": 41
+        },
+        {
+            "first": 0,
+            "second": 159,
+            "time": 46
+        },
+        {
+            "first": 1,
+            "second": 12,
+            "time": 36
+        },
+        {
+            "first": 1,
+            "second": 235,
+            "time": 44
+        },
+        {
+            "first": 2,
+            "second": 110,
+            "time": 69
+        },
+        {
+            "first": 2,
+            "second": 139,
+            "time": 50
+        },
+        {
+            "first": 3,
+            "second": 262,
+            "time": 33
+        },
+        {
+            "first": 3,
+            "second": 210,
+            "time": 41
+        },
+        {
+            "first": 4,
+            "second": 171,
+            "time": 43
+        },
+        {
+            "first": 4,
+            "second": 251,
+            "time": 35
+        },
+        {
+            "first": 5,
+            "second": 13,
+            "time": 67
+        },
+        {
+            "first": 5,
+            "second": 239,
+            "time": 54
+        },
+        {
+            "first": 6,
+            "second": 55,
+            "time": 56
+        },
+        {
+            "first": 6,
+            "second": 258,
+            "time": 46
+        },
+        {
+            "first": 7,
+            "second": 290,
+            "time": 39
+        },
+        {
+            "first": 7,
+            "second": 311,
+            "time": 79
+        },
+        {
+            "first": 8,
+            "second": 350,
+            "time": 38
+        },
+        {
+            "first": 8,
+            "second": 309,
+            "time": 58
+        },
+        {
+            "first": 9,
+            "second": 338,
+            "time": 28
+        },
+        {
+            "first": 9,
+            "second": 78,
+            "time": 62
+        },
+        {
+            "first": 10,
+            "second": 277,
+            "time": 42
+        },
+        {
+            "first": 10,
+            "second": 108,
+            "time": 36
+        },
+        {
+            "first": 11,
+            "second": 154,
+            "time": 32
+        },
+        {
+            "first": 11,
+            "second": 54,
+            "time": 41
+        },
+        {
+            "first": 12,
+            "second": 213,
+            "time": 42
+        },
+        {
+            "first": 13,
+            "second": 151,
+            "time": 57
+        },
+        {
+            "first": 14,
+            "second": 124,
+            "time": 46
+        },
+        {
+            "first": 14,
+            "second": 64,
+            "time": 28
+        },
+        {
+            "first": 15,
+            "second": 318,
+            "time": 37
+        },
+        {
+            "first": 15,
+            "second": 319,
+            "time": 73
+        },
+        {
+            "first": 16,
+            "second": 119,
+            "time": 98
+        },
+        {
+            "first": 16,
+            "second": 331,
+            "time": 62
+        },
+        {
+            "first": 17,
+            "second": 288,
+            "time": 89
+        },
+        {
+            "first": 17,
+            "second": 40,
+            "time": 41
+        },
+        {
+            "first": 18,
+            "second": 163,
+            "time": 32
+        },
+        {
+            "first": 18,
+            "second": 61,
+            "time": 56
+        },
+        {
+            "first": 19,
+            "second": 236,
+            "time": 31
+        },
+        {
+            "first": 19,
+            "second": 93,
+            "time": 33
+        },
+        {
+            "first": 20,
+            "second": 129,
+            "time": 48
+        },
+        {
+            "first": 20,
+            "second": 283,
+            "time": 38
+        },
+        {
+            "first": 21,
+            "second": 86,
+            "time": 46
+        },
+        {
+            "first": 21,
+            "second": 75,
+            "time": 51
+        },
+        {
+            "first": 22,
+            "second": 84,
+            "time": 39
+        },
+        {
+            "first": 22,
+            "second": 120,
+            "time": 81
+        },
+        {
+            "first": 23,
+            "second": 97,
+            "time": 35
+        },
+        {
+            "first": 23,
+            "second": 287,
+            "time": 57
+        },
+        {
+            "first": 24,
+            "second": 84,
+            "time": 51
+        },
+        {
+            "first": 25,
+            "second": 193,
+            "time": 42
+        },
+        {
+            "first": 25,
+            "second": 253,
+            "time": 35
+        },
+        {
+            "first": 26,
+            "second": 98,
+            "time": 31
+        },
+        {
+            "first": 26,
+            "second": 230,
+            "time": 64
+        },
+        {
+            "first": 27,
+            "second": 239,
+            "time": 64
+        },
+        {
+            "first": 27,
+            "second": 246,
+            "time": 59
+        },
+        {
+            "first": 28,
+            "second": 29,
+            "time": 79
+        },
+        {
+            "first": 29,
+            "second": 374,
+            "time": 46
+        },
+        {
+            "first": 30,
+            "second": 354,
+            "time": 24
+        },
+        {
+            "first": 30,
+            "second": 150,
+            "time": 44
+        },
+        {
+            "first": 31,
+            "second": 41,
+            "time": 28
+        },
+        {
+            "first": 31,
+            "second": 144,
+            "time": 36
+        },
+        {
+            "first": 32,
+            "second": 343,
+            "time": 54
+        },
+        {
+            "first": 32,
+            "second": 303,
+            "time": 41
+        },
+        {
+            "first": 33,
+            "second": 344,
+            "time": 52
+        },
+        {
+            "first": 33,
+            "second": 304,
+            "time": 41
+        },
+        {
+            "first": 34,
+            "second": 248,
+            "time": 36
+        },
+        {
+            "first": 34,
+            "second": 41,
+            "time": 57
+        },
+        {
+            "first": 35,
+            "second": 111,
+            "time": 34
+        },
+        {
+            "first": 35,
+            "second": 172,
+            "time": 40
+        },
+        {
+            "first": 36,
+            "second": 198,
+            "time": 105
+        },
+        {
+            "first": 36,
+            "second": 37,
+            "time": 39
+        },
+        {
+            "first": 38,
+            "second": 336,
+            "time": 35
+        },
+        {
+            "first": 38,
+            "second": 289,
+            "time": 38
+        },
+        {
+            "first": 39,
+            "second": 153,
+            "time": 38
+        },
+        {
+            "first": 39,
+            "second": 267,
+            "time": 46
+        },
+        {
+            "first": 40,
+            "second": 297,
+            "time": 37
+        },
+        {
+            "first": 42,
+            "second": 190,
+            "time": 42
+        },
+        {
+            "first": 42,
+            "second": 215,
+            "time": 35
+        },
+        {
+            "first": 43,
+            "second": 66,
+            "time": 41
+        },
+        {
+            "first": 43,
+            "second": 328,
+            "time": 57
+        },
+        {
+            "first": 44,
+            "second": 162,
+            "time": 54
+        },
+        {
+            "first": 44,
+            "second": 250,
+            "time": 64
+        },
+        {
+            "first": 45,
+            "second": 348,
+            "time": 43
+        },
+        {
+            "first": 45,
+            "second": 155,
+            "time": 35
+        },
+        {
+            "first": 46,
+            "second": 242,
+            "time": 63
+        },
+        {
+            "first": 46,
+            "second": 329,
+            "time": 46
+        },
+        {
+            "first": 47,
+            "second": 148,
+            "time": 46
+        },
+        {
+            "first": 47,
+            "second": 195,
+            "time": 41
+        },
+        {
+            "first": 48,
+            "second": 182,
+            "time": 66
+        },
+        {
+            "first": 48,
+            "second": 318,
+            "time": 60
+        },
+        {
+            "first": 49,
+            "second": 164,
+            "time": 42
+        },
+        {
+            "first": 49,
+            "second": 241,
+            "time": 40
+        },
+        {
+            "first": 50,
+            "second": 77,
+            "time": 54
+        },
+        {
+            "first": 50,
+            "second": 109,
+            "time": 62
+        },
+        {
+            "first": 51,
+            "second": 137,
+            "time": 62
+        },
+        {
+            "first": 51,
+            "second": 202,
+            "time": 69
+        },
+        {
+            "first": 52,
+            "second": 201,
+            "time": 20
+        },
+        {
+            "first": 53,
+            "second": 372,
+            "time": 47
+        },
+        {
+            "first": 53,
+            "second": 167,
+            "time": 33
+        },
+        {
+            "first": 54,
+            "second": 145,
+            "time": 51
+        },
+        {
+            "first": 55,
+            "second": 127,
+            "time": 60
+        },
+        {
+            "first": 56,
+            "second": 351,
+            "time": 59
+        },
+        {
+            "first": 56,
+            "second": 362,
+            "time": 75
+        },
+        {
+            "first": 57,
+            "second": 150,
+            "time": 35
+        },
+        {
+            "first": 58,
+            "second": 307,
+            "time": 31
+        },
+        {
+            "first": 58,
+            "second": 369,
+            "time": 31
+        },
+        {
+            "first": 59,
+            "second": 224,
+            "time": 72
+        },
+        {
+            "first": 59,
+            "second": 162,
+            "time": 53
+        },
+        {
+            "first": 60,
+            "second": 299,
+            "time": 63
+        },
+        {
+            "first": 60,
+            "second": 133,
+            "time": 45
+        },
+        {
+            "first": 61,
+            "second": 335,
+            "time": 28
+        },
+        {
+            "first": 62,
+            "second": 287,
+            "time": 53
+        },
+        {
+            "first": 62,
+            "second": 216,
+            "time": 48
+        },
+        {
+            "first": 63,
+            "second": 123,
+            "time": 44
+        },
+        {
+            "first": 63,
+            "second": 169,
+            "time": 57
+        },
+        {
+            "first": 64,
+            "second": 192,
+            "time": 57
+        },
+        {
+            "first": 65,
+            "second": 342,
+            "time": 41
+        },
+        {
+            "first": 65,
+            "second": 121,
+            "time": 57
+        },
+        {
+            "first": 67,
+            "second": 135,
+            "time": 87
+        },
+        {
+            "first": 67,
+            "second": 173,
+            "time": 51
+        },
+        {
+            "first": 68,
+            "second": 136,
+            "time": 85
+        },
+        {
+            "first": 69,
+            "second": 120,
+            "time": 287
+        },
+        {
+            "first": 69,
+            "second": 281,
+            "time": 131
+        },
+        {
+            "first": 70,
+            "second": 73,
+            "time": 45
+        },
+        {
+            "first": 70,
+            "second": 165,
+            "time": 66
+        },
+        {
+            "first": 71,
+            "second": 254,
+            "time": 73
+        },
+        {
+            "first": 71,
+            "second": 255,
+            "time": 37
+        },
+        {
+            "first": 72,
+            "second": 188,
+            "time": 52
+        },
+        {
+            "first": 73,
+            "second": 330,
+            "time": 46
+        },
+        {
+            "first": 74,
+            "second": 195,
+            "time": 44
+        },
+        {
+            "first": 74,
+            "second": 221,
+            "time": 52
+        },
+        {
+            "first": 75,
+            "second": 142,
+            "time": 93
+        },
+        {
+            "first": 76,
+            "second": 156,
+            "time": 59
+        },
+        {
+            "first": 76,
+            "second": 111,
+            "time": 30
+        },
+        {
+            "first": 77,
+            "second": 356,
+            "time": 57
+        },
+        {
+            "first": 78,
+            "second": 175,
+            "time": 41
+        },
+        {
+            "first": 79,
+            "second": 177,
+            "time": 41
+        },
+        {
+            "first": 79,
+            "second": 138,
+            "time": 71
+        },
+        {
+            "first": 80,
+            "second": 274,
+            "time": 41
+        },
+        {
+            "first": 80,
+            "second": 360,
+            "time": 49
+        },
+        {
+            "first": 81,
+            "second": 178,
+            "time": 43
+        },
+        {
+            "first": 81,
+            "second": 274,
+            "time": 43
+        },
+        {
+            "first": 82,
+            "second": 87,
+            "time": 32
+        },
+        {
+            "first": 82,
+            "second": 277,
+            "time": 47
+        },
+        {
+            "first": 83,
+            "second": 243,
+            "time": 36
+        },
+        {
+            "first": 83,
+            "second": 128,
+            "time": 49
+        },
+        {
+            "first": 85,
+            "second": 204,
+            "time": 47
+        },
+        {
+            "first": 85,
+            "second": 351,
+            "time": 46
+        },
+        {
+            "first": 86,
+            "second": 211,
+            "time": 37
+        },
+        {
+            "first": 87,
+            "second": 300,
+            "time": 43
+        },
+        {
+            "first": 88,
+            "second": 181,
+            "time": 44
+        },
+        {
+            "first": 88,
+            "second": 301,
+            "time": 47
+        },
+        {
+            "first": 89,
+            "second": 90,
+            "time": 29
+        },
+        {
+            "first": 90,
+            "second": 91,
+            "time": 26
+        },
+        {
+            "first": 91,
+            "second": 185,
+            "time": 27
+        },
+        {
+            "first": 92,
+            "second": 34,
+            "time": 37
+        },
+        {
+            "first": 93,
+            "second": 97,
+            "time": 45
+        },
+        {
+            "first": 94,
+            "second": 200,
+            "time": 27
+        },
+        {
+            "first": 94,
+            "second": 205,
+            "time": 39
+        },
+        {
+            "first": 95,
+            "second": 210,
+            "time": 48
+        },
+        {
+            "first": 95,
+            "second": 292,
+            "time": 37
+        },
+        {
+            "first": 96,
+            "second": 324,
+            "time": 52
+        },
+        {
+            "first": 96,
+            "second": 293,
+            "time": 42
+        },
+        {
+            "first": 98,
+            "second": 155,
+            "time": 69
+        },
+        {
+            "first": 99,
+            "second": 358,
+            "time": 31
+        },
+        {
+            "first": 99,
+            "second": 349,
+            "time": 54
+        },
+        {
+            "first": 100,
+            "second": 207,
+            "time": 113
+        },
+        {
+            "first": 100,
+            "second": 321,
+            "time": 59
+        },
+        {
+            "first": 101,
+            "second": 293,
+            "time": 43
+        },
+        {
+            "first": 101,
+            "second": 209,
+            "time": 36
+        },
+        {
+            "first": 102,
+            "second": 252,
+            "time": 35
+        },
+        {
+            "first": 102,
+            "second": 130,
+            "time": 37
+        },
+        {
+            "first": 103,
+            "second": 327,
+            "time": 44
+        },
+        {
+            "first": 103,
+            "second": 367,
+            "time": 30
+        },
+        {
+            "first": 104,
+            "second": 199,
+            "time": 62
+        },
+        {
+            "first": 104,
+            "second": 271,
+            "time": 40
+        },
+        {
+            "first": 105,
+            "second": 296,
+            "time": 42
+        },
+        {
+            "first": 105,
+            "second": 163,
+            "time": 47
+        },
+        {
+            "first": 106,
+            "second": 231,
+            "time": 29
+        },
+        {
+            "first": 106,
+            "second": 206,
+            "time": 36
+        },
+        {
+            "first": 107,
+            "second": 335,
+            "time": 49
+        },
+        {
+            "first": 107,
+            "second": 314,
+            "time": 49
+        },
+        {
+            "first": 108,
+            "second": 152,
+            "time": 29
+        },
+        {
+            "first": 109,
+            "second": 127,
+            "time": 59
+        },
+        {
+            "first": 110,
+            "second": 332,
+            "time": 37
+        },
+        {
+            "first": 112,
+            "second": 180,
+            "time": 71
+        },
+        {
+            "first": 113,
+            "second": 234,
+            "time": 36
+        },
+        {
+            "first": 113,
+            "second": 207,
+            "time": 47
+        },
+        {
+            "first": 114,
+            "second": 263,
+            "time": 72
+        },
+        {
+            "first": 115,
+            "second": 263,
+            "time": 39
+        },
+        {
+            "first": 115,
+            "second": 285,
+            "time": 70
+        },
+        {
+            "first": 116,
+            "second": 233,
+            "time": 50
+        },
+        {
+            "first": 117,
+            "second": 148,
+            "time": 59
+        },
+        {
+            "first": 118,
+            "second": 329,
+            "time": 60
+        },
+        {
+            "first": 118,
+            "second": 288,
+            "time": 30
+        },
+        {
+            "first": 119,
+            "second": 295,
+            "time": 41
+        },
+        {
+            "first": 121,
+            "second": 124,
+            "time": 67
+        },
+        {
+            "first": 122,
+            "second": 140,
+            "time": 103
+        },
+        {
+            "first": 122,
+            "second": 125,
+            "time": 59
+        },
+        {
+            "first": 123,
+            "second": 250,
+            "time": 51
+        },
+        {
+            "first": 125,
+            "second": 340,
+            "time": 107
+        },
+        {
+            "first": 126,
+            "second": 272,
+            "time": 37
+        },
+        {
+            "first": 126,
+            "second": 182,
+            "time": 42
+        },
+        {
+            "first": 128,
+            "second": 324,
+            "time": 42
+        },
+        {
+            "first": 129,
+            "second": 311,
+            "time": 49
+        },
+        {
+            "first": 131,
+            "second": 153,
+            "time": 72
+        },
+        {
+            "first": 131,
+            "second": 272,
+            "time": 63
+        },
+        {
+            "first": 132,
+            "second": 223,
+            "time": 68
+        },
+        {
+            "first": 132,
+            "second": 327,
+            "time": 40
+        },
+        {
+            "first": 133,
+            "second": 317,
+            "time": 49
+        },
+        {
+            "first": 134,
+            "second": 270,
+            "time": 47
+        },
+        {
+            "first": 134,
+            "second": 374,
+            "time": 53
+        },
+        {
+            "first": 135,
+            "second": 331,
+            "time": 65
+        },
+        {
+            "first": 136,
+            "second": 290,
+            "time": 73
+        },
+        {
+            "first": 137,
+            "second": 359,
+            "time": 54
+        },
+        {
+            "first": 138,
+            "second": 158,
+            "time": 57
+        },
+        {
+            "first": 139,
+            "second": 355,
+            "time": 46
+        },
+        {
+            "first": 140,
+            "second": 313,
+            "time": 47
+        },
+        {
+            "first": 141,
+            "second": 291,
+            "time": 37
+        },
+        {
+            "first": 141,
+            "second": 197,
+            "time": 49
+        },
+        {
+            "first": 142,
+            "second": 339,
+            "time": 27
+        },
+        {
+            "first": 143,
+            "second": 340,
+            "time": 29
+        },
+        {
+            "first": 143,
+            "second": 160,
+            "time": 44
+        },
+        {
+            "first": 144,
+            "second": 170,
+            "time": 46
+        },
+        {
+            "first": 145,
+            "second": 373,
+            "time": 55
+        },
+        {
+            "first": 146,
+            "second": 283,
+            "time": 33
+        },
+        {
+            "first": 146,
+            "second": 247,
+            "time": 50
+        },
+        {
+            "first": 147,
+            "second": 159,
+            "time": 44
+        },
+        {
+            "first": 147,
+            "second": 191,
+            "time": 49
+        },
+        {
+            "first": 149,
+            "second": 241,
+            "time": 57
+        },
+        {
+            "first": 149,
+            "second": 345,
+            "time": 79
+        },
+        {
+            "first": 151,
+            "second": 339,
+            "time": 93
+        },
+        {
+            "first": 153,
+            "second": 245,
+            "time": 64
+        },
+        {
+            "first": 154,
+            "second": 349,
+            "time": 33
+        },
+        {
+            "first": 156,
+            "second": 371,
+            "time": 46
+        },
+        {
+            "first": 157,
+            "second": 306,
+            "time": 36
+        },
+        {
+            "first": 157,
+            "second": 291,
+            "time": 49
+        },
+        {
+            "first": 158,
+            "second": 371,
+            "time": 66
+        },
+        {
+            "first": 160,
+            "second": 226,
+            "time": 40
+        },
+        {
+            "first": 161,
+            "second": 364,
+            "time": 28
+        },
+        {
+            "first": 161,
+            "second": 184,
+            "time": 39
+        },
+        {
+            "first": 164,
+            "second": 244,
+            "time": 60
+        },
+        {
+            "first": 165,
+            "second": 375,
+            "time": 33
+        },
+        {
+            "first": 166,
+            "second": 258,
+            "time": 38
+        },
+        {
+            "first": 166,
+            "second": 252,
+            "time": 37
+        },
+        {
+            "first": 167,
+            "second": 265,
+            "time": 31
+        },
+        {
+            "first": 168,
+            "second": 326,
+            "time": 49
+        },
+        {
+            "first": 168,
+            "second": 245,
+            "time": 28
+        },
+        {
+            "first": 169,
+            "second": 341,
+            "time": 54
+        },
+        {
+            "first": 171,
+            "second": 264,
+            "time": 49
+        },
+        {
+            "first": 172,
+            "second": 240,
+            "time": 35
+        },
+        {
+            "first": 173,
+            "second": 227,
+            "time": 34
+        },
+        {
+            "first": 174,
+            "second": 221,
+            "time": 31
+        },
+        {
+            "first": 174,
+            "second": 346,
+            "time": 72
+        },
+        {
+            "first": 175,
+            "second": 325,
+            "time": 144
+        },
+        {
+            "first": 176,
+            "second": 281,
+            "time": 71
+        },
+        {
+            "first": 177,
+            "second": 225,
+            "time": 88
+        },
+        {
+            "first": 179,
+            "second": 237,
+            "time": 37
+        },
+        {
+            "first": 180,
+            "second": 267,
+            "time": 91
+        },
+        {
+            "first": 183,
+            "second": 278,
+            "time": 51
+        },
+        {
+            "first": 184,
+            "second": 260,
+            "time": 31
+        },
+        {
+            "first": 184,
+            "second": 352,
+            "time": 36
+        },
+        {
+            "first": 185,
+            "second": 186,
+            "time": 26
+        },
+        {
+            "first": 186,
+            "second": 372,
+            "time": 33
+        },
+        {
+            "first": 187,
+            "second": 188,
+            "time": 34
+        },
+        {
+            "first": 187,
+            "second": 273,
+            "time": 46
+        },
+        {
+            "first": 189,
+            "second": 367,
+            "time": 49
+        },
+        {
+            "first": 189,
+            "second": 370,
+            "time": 35
+        },
+        {
+            "first": 190,
+            "second": 269,
+            "time": 27
+        },
+        {
+            "first": 191,
+            "second": 194,
+            "time": 67
+        },
+        {
+            "first": 192,
+            "second": 337,
+            "time": 36
+        },
+        {
+            "first": 193,
+            "second": 271,
+            "time": 38
+        },
+        {
+            "first": 194,
+            "second": 276,
+            "time": 67
+        },
+        {
+            "first": 196,
+            "second": 259,
+            "time": 47
+        },
+        {
+            "first": 197,
+            "second": 199,
+            "time": 28
+        },
+        {
+            "first": 198,
+            "second": 52,
+            "time": 42
+        },
+        {
+            "first": 200,
+            "second": 257,
+            "time": 51
+        },
+        {
+            "first": 201,
+            "second": 145,
+            "time": 46
+        },
+        {
+            "first": 202,
+            "second": 326,
+            "time": 112
+        },
+        {
+            "first": 203,
+            "second": 317,
+            "time": 53
+        },
+        {
+            "first": 203,
+            "second": 332,
+            "time": 40
+        },
+        {
+            "first": 204,
+            "second": 366,
+            "time": 51
+        },
+        {
+            "first": 205,
+            "second": 296,
+            "time": 38
+        },
+        {
+            "first": 206,
+            "second": 218,
+            "time": 45
+        },
+        {
+            "first": 208,
+            "second": 361,
+            "time": 42
+        },
+        {
+            "first": 208,
+            "second": 333,
+            "time": 48
+        },
+        {
+            "first": 209,
+            "second": 232,
+            "time": 54
+        },
+        {
+            "first": 211,
+            "second": 284,
+            "time": 49
+        },
+        {
+            "first": 212,
+            "second": 275,
+            "time": 86
+        },
+        {
+            "first": 212,
+            "second": 295,
+            "time": 64
+        },
+        {
+            "first": 214,
+            "second": 236,
+            "time": 42
+        },
+        {
+            "first": 215,
+            "second": 307,
+            "time": 60
+        },
+        {
+            "first": 216,
+            "second": 243,
+            "time": 55
+        },
+        {
+            "first": 217,
+            "second": 353,
+            "time": 29
+        },
+        {
+            "first": 217,
+            "second": 322,
+            "time": 37
+        },
+        {
+            "first": 218,
+            "second": 294,
+            "time": 38
+        },
+        {
+            "first": 219,
+            "second": 297,
+            "time": 50
+        },
+        {
+            "first": 219,
+            "second": 313,
+            "time": 81
+        },
+        {
+            "first": 220,
+            "second": 316,
+            "time": 35
+        },
+        {
+            "first": 220,
+            "second": 315,
+            "time": 80
+        },
+        {
+            "first": 222,
+            "second": 323,
+            "time": 42
+        },
+        {
+            "first": 222,
+            "second": 330,
+            "time": 31
+        },
+        {
+            "first": 223,
+            "second": 289,
+            "time": 43
+        },
+        {
+            "first": 224,
+            "second": 282,
+            "time": 80
+        },
+        {
+            "first": 225,
+            "second": 298,
+            "time": 75
+        },
+        {
+            "first": 226,
+            "second": 270,
+            "time": 39
+        },
+        {
+            "first": 227,
+            "second": 356,
+            "time": 38
+        },
+        {
+            "first": 228,
+            "second": 255,
+            "time": 53
+        },
+        {
+            "first": 228,
+            "second": 282,
+            "time": 49
+        },
+        {
+            "first": 229,
+            "second": 305,
+            "time": 43
+        },
+        {
+            "first": 229,
+            "second": 312,
+            "time": 64
+        },
+        {
+            "first": 230,
+            "second": 354,
+            "time": 62
+        },
+        {
+            "first": 231,
+            "second": 368,
+            "time": 40
+        },
+        {
+            "first": 232,
+            "second": 348,
+            "time": 46
+        },
+        {
+            "first": 233,
+            "second": 320,
+            "time": 33
+        },
+        {
+            "first": 234,
+            "second": 249,
+            "time": 38
+        },
+        {
+            "first": 235,
+            "second": 284,
+            "time": 44
+        },
+        {
+            "first": 237,
+            "second": 261,
+            "time": 37
+        },
+        {
+            "first": 238,
+            "second": 322,
+            "time": 27
+        },
+        {
+            "first": 244,
+            "second": 352,
+            "time": 37
+        },
+        {
+            "first": 246,
+            "second": 302,
+            "time": 37
+        },
+        {
+            "first": 247,
+            "second": 357,
+            "time": 23
+        },
+        {
+            "first": 248,
+            "second": 280,
+            "time": 57
+        },
+        {
+            "first": 249,
+            "second": 273,
+            "time": 35
+        },
+        {
+            "first": 254,
+            "second": 345,
+            "time": 75
+        },
+        {
+            "first": 256,
+            "second": 362,
+            "time": 37
+        },
+        {
+            "first": 257,
+            "second": 265,
+            "time": 26
+        },
+        {
+            "first": 259,
+            "second": 198,
+            "time": 47
+        },
+        {
+            "first": 259,
+            "second": 36,
+            "time": 84
+        },
+        {
+            "first": 260,
+            "second": 266,
+            "time": 37
+        },
+        {
+            "first": 261,
+            "second": 266,
+            "time": 46
+        },
+        {
+            "first": 264,
+            "second": 286,
+            "time": 41
+        },
+        {
+            "first": 268,
+            "second": 337,
+            "time": 39
+        },
+        {
+            "first": 269,
+            "second": 301,
+            "time": 35
+        },
+        {
+            "first": 275,
+            "second": 328,
+            "time": 41
+        },
+        {
+            "first": 278,
+            "second": 357,
+            "time": 59
+        },
+        {
+            "first": 279,
+            "second": 320,
+            "time": 37
+        },
+        {
+            "first": 280,
+            "second": 92,
+            "time": 43
+        },
+        {
+            "first": 285,
+            "second": 305,
+            "time": 61
+        },
+        {
+            "first": 286,
+            "second": 370,
+            "time": 35
+        },
+        {
+            "first": 292,
+            "second": 361,
+            "time": 38
+        },
+        {
+            "first": 294,
+            "second": 347,
+            "time": 46
+        },
+        {
+            "first": 298,
+            "second": 303,
+            "time": 46
+        },
+        {
+            "first": 299,
+            "second": 304,
+            "time": 48
+        },
+        {
+            "first": 300,
+            "second": 341,
+            "time": 46
+        },
+        {
+            "first": 302,
+            "second": 366,
+            "time": 53
+        },
+        {
+            "first": 306,
+            "second": 355,
+            "time": 33
+        },
+        {
+            "first": 308,
+            "second": 347,
+            "time": 29
+        },
+        {
+            "first": 308,
+            "second": 338,
+            "time": 33
+        },
+        {
+            "first": 309,
+            "second": 336,
+            "time": 65
+        },
+        {
+            "first": 310,
+            "second": 375,
+            "time": 28
+        },
+        {
+            "first": 310,
+            "second": 342,
+            "time": 67
+        },
+        {
+            "first": 312,
+            "second": 350,
+            "time": 37
+        },
+        {
+            "first": 314,
+            "second": 343,
+            "time": 98
+        },
+        {
+            "first": 315,
+            "second": 344,
+            "time": 107
+        },
+        {
+            "first": 316,
+            "second": 369,
+            "time": 27
+        },
+        {
+            "first": 321,
+            "second": 359,
+            "time": 23
+        },
+        {
+            "first": 323,
+            "second": 334,
+            "time": 47
+        },
+        {
+            "first": 325,
+            "second": 353,
+            "time": 69
+        },
+        {
+            "first": 333,
+            "second": 334,
+            "time": 32
+        },
+        {
+            "first": 346,
+            "second": 358,
+            "time": 33
+        },
+        {
+            "first": 360,
+            "second": 368,
+            "time": 47
+        },
+        {
+            "first": 363,
+            "second": 365,
+            "time": 28
+        },
+        {
+            "first": 364,
+            "second": 365,
+            "time": 28
+        },
+        {
+            "first": 373,
+            "second": 196,
+            "time": 37
+        },
+        {
+            "first": 7,
+            "second": 8,
+            "time": 180
+        },
+        {
+            "first": 13,
+            "second": 14,
+            "time": 180
+        },
+        {
+            "first": 16,
+            "second": 18,
+            "time": 240
+        },
+        {
+            "first": 16,
+            "second": 17,
+            "time": 240
+        },
+        {
+            "first": 17,
+            "second": 18,
+            "time": 240
+        },
+        {
+            "first": 20,
+            "second": 21,
+            "time": 180
+        },
+        {
+            "first": 22,
+            "second": 23,
+            "time": 180
+        },
+        {
+            "first": 32,
+            "second": 33,
+            "time": 180
+        },
+        {
+            "first": 50,
+            "second": 51,
+            "time": 180
+        },
+        {
+            "first": 55,
+            "second": 57,
+            "time": 240
+        },
+        {
+            "first": 55,
+            "second": 56,
+            "time": 240
+        },
+        {
+            "first": 56,
+            "second": 57,
+            "time": 240
+        },
+        {
+            "first": 59,
+            "second": 60,
+            "time": 180
+        },
+        {
+            "first": 67,
+            "second": 69,
+            "time": 300
+        },
+        {
+            "first": 67,
+            "second": 68,
+            "time": 300
+        },
+        {
+            "first": 67,
+            "second": 70,
+            "time": 300
+        },
+        {
+            "first": 67,
+            "second": 71,
+            "time": 300
+        },
+        {
+            "first": 68,
+            "second": 69,
+            "time": 300
+        },
+        {
+            "first": 68,
+            "second": 70,
+            "time": 300
+        },
+        {
+            "first": 68,
+            "second": 71,
+            "time": 300
+        },
+        {
+            "first": 69,
+            "second": 70,
+            "time": 300
+        },
+        {
+            "first": 69,
+            "second": 71,
+            "time": 300
+        },
+        {
+            "first": 70,
+            "second": 71,
+            "time": 300
+        },
+        {
+            "first": 77,
+            "second": 79,
+            "time": 240
+        },
+        {
+            "first": 77,
+            "second": 78,
+            "time": 240
+        },
+        {
+            "first": 78,
+            "second": 79,
+            "time": 240
+        },
+        {
+            "first": 93,
+            "second": 94,
+            "time": 180
+        },
+        {
+            "first": 95,
+            "second": 96,
+            "time": 180
+        },
+        {
+            "first": 99,
+            "second": 100,
+            "time": 180
+        },
+        {
+            "first": 109,
+            "second": 110,
+            "time": 180
+        },
+        {
+            "first": 115,
+            "second": 116,
+            "time": 180
+        },
+        {
+            "first": 117,
+            "second": 118,
+            "time": 180
+        },
+        {
+            "first": 119,
+            "second": 120,
+            "time": 180
+        },
+        {
+            "first": 121,
+            "second": 123,
+            "time": 240
+        },
+        {
+            "first": 121,
+            "second": 122,
+            "time": 240
+        },
+        {
+            "first": 122,
+            "second": 123,
+            "time": 240
+        },
+        {
+            "first": 124,
+            "second": 125,
+            "time": 180
+        },
+        {
+            "first": 132,
+            "second": 133,
+            "time": 180
+        },
+        {
+            "first": 135,
+            "second": 136,
+            "time": 180
+        },
+        {
+            "first": 137,
+            "second": 138,
+            "time": 180
+        },
+        {
+            "first": 142,
+            "second": 144,
+            "time": 240
+        },
+        {
+            "first": 142,
+            "second": 143,
+            "time": 240
+        },
+        {
+            "first": 143,
+            "second": 144,
+            "time": 240
+        },
+        {
+            "first": 148,
+            "second": 149,
+            "time": 180
+        },
+        {
+            "first": 154,
+            "second": 156,
+            "time": 240
+        },
+        {
+            "first": 154,
+            "second": 155,
+            "time": 240
+        },
+        {
+            "first": 155,
+            "second": 156,
+            "time": 240
+        },
+        {
+            "first": 169,
+            "second": 170,
+            "time": 180
+        },
+        {
+            "first": 175,
+            "second": 177,
+            "time": 240
+        },
+        {
+            "first": 175,
+            "second": 176,
+            "time": 240
+        },
+        {
+            "first": 176,
+            "second": 177,
+            "time": 240
+        },
+        {
+            "first": 191,
+            "second": 192,
+            "time": 180
+        },
+        {
+            "first": 196,
+            "second": 197,
+            "time": 180
+        },
+        {
+            "first": 198,
+            "second": 199,
+            "time": 180
+        },
+        {
+            "first": 202,
+            "second": 203,
+            "time": 180
+        },
+        {
+            "first": 206,
+            "second": 208,
+            "time": 300
+        },
+        {
+            "first": 206,
+            "second": 207,
+            "time": 300
+        },
+        {
+            "first": 206,
+            "second": 209,
+            "time": 300
+        },
+        {
+            "first": 207,
+            "second": 208,
+            "time": 300
+        },
+        {
+            "first": 207,
+            "second": 209,
+            "time": 300
+        },
+        {
+            "first": 208,
+            "second": 209,
+            "time": 300
+        },
+        {
+            "first": 212,
+            "second": 214,
+            "time": 300
+        },
+        {
+            "first": 212,
+            "second": 213,
+            "time": 300
+        },
+        {
+            "first": 212,
+            "second": 215,
+            "time": 300
+        },
+        {
+            "first": 213,
+            "second": 214,
+            "time": 300
+        },
+        {
+            "first": 213,
+            "second": 215,
+            "time": 300
+        },
+        {
+            "first": 214,
+            "second": 215,
+            "time": 300
+        },
+        {
+            "first": 219,
+            "second": 220,
+            "time": 180
+        },
+        {
+            "first": 221,
+            "second": 222,
+            "time": 180
+        },
+        {
+            "first": 223,
+            "second": 225,
+            "time": 240
+        },
+        {
+            "first": 223,
+            "second": 224,
+            "time": 240
+        },
+        {
+            "first": 224,
+            "second": 225,
+            "time": 240
+        },
+        {
+            "first": 227,
+            "second": 228,
+            "time": 180
+        },
+        {
+            "first": 231,
+            "second": 232,
+            "time": 180
+        },
+        {
+            "first": 238,
+            "second": 239,
+            "time": 180
+        },
+        {
+            "first": 242,
+            "second": 244,
+            "time": 240
+        },
+        {
+            "first": 242,
+            "second": 243,
+            "time": 240
+        },
+        {
+            "first": 243,
+            "second": 244,
+            "time": 240
+        },
+        {
+            "first": 245,
+            "second": 246,
+            "time": 180
+        },
+        {
+            "first": 247,
+            "second": 248,
+            "time": 180
+        },
+        {
+            "first": 278,
+            "second": 279,
+            "time": 180
+        },
+        {
+            "first": 281,
+            "second": 282,
+            "time": 180
+        },
+        {
+            "first": 284,
+            "second": 285,
+            "time": 180
+        },
+        {
+            "first": 292,
+            "second": 293,
+            "time": 180
+        },
+        {
+            "first": 295,
+            "second": 296,
+            "time": 180
+        },
+        {
+            "first": 298,
+            "second": 299,
+            "time": 180
+        },
+        {
+            "first": 303,
+            "second": 304,
+            "time": 180
+        },
+        {
+            "first": 309,
+            "second": 310,
+            "time": 180
+        },
+        {
+            "first": 311,
+            "second": 313,
+            "time": 300
+        },
+        {
+            "first": 311,
+            "second": 312,
+            "time": 300
+        },
+        {
+            "first": 311,
+            "second": 314,
+            "time": 300
+        },
+        {
+            "first": 311,
+            "second": 315,
+            "time": 300
+        },
+        {
+            "first": 312,
+            "second": 313,
+            "time": 300
+        },
+        {
+            "first": 312,
+            "second": 314,
+            "time": 300
+        },
+        {
+            "first": 312,
+            "second": 315,
+            "time": 300
+        },
+        {
+            "first": 313,
+            "second": 314,
+            "time": 300
+        },
+        {
+            "first": 313,
+            "second": 315,
+            "time": 300
+        },
+        {
+            "first": 314,
+            "second": 315,
+            "time": 300
+        },
+        {
+            "first": 325,
+            "second": 327,
+            "time": 240
+        },
+        {
+            "first": 325,
+            "second": 326,
+            "time": 240
+        },
+        {
+            "first": 326,
+            "second": 327,
+            "time": 240
+        },
+        {
+            "first": 339,
+            "second": 341,
+            "time": 240
+        },
+        {
+            "first": 339,
+            "second": 340,
+            "time": 240
+        },
+        {
+            "first": 340,
+            "second": 341,
+            "time": 240
+        },
+        {
+            "first": 342,
+            "second": 344,
+            "time": 240
+        },
+        {
+            "first": 342,
+            "second": 343,
+            "time": 240
+        },
+        {
+            "first": 343,
+            "second": 344,
+            "time": 240
+        },
+        {
+            "first": 346,
+            "second": 347,
+            "time": 180
+        },
+        {
+            "first": 354,
+            "second": 355,
+            "time": 180
+        },
+        {
+            "first": 366,
+            "second": 367,
+            "time": 180
+        }
+    ]
+}

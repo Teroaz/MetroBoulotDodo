@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "script:data-parsing": "tsx src/scripts/index.ts"
+    "script:data-parsing": "tsx src/scripts/DataManager.ts"
   },
   "dependencies": {
     "@types/node": "^18.7.15",

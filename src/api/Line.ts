@@ -1,5 +1,5 @@
 import Station from "./Station";
-import {HexColorString} from "./colors";
+import {HexColorString} from "../assets/data/colors";
 
 export type LineInfo = {
 	name: string,
