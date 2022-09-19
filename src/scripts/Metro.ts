@@ -1,9 +1,10 @@
 import Station from "./Station";
 import Path from "./Path";
+import Line from "./Line";
 
 export namespace Metro {
 	
-	export const lines: Record<string, Station[]> = {};
+	export const lines: Line[] = [];
 	export const stations: Station[] = [];
 	export const paths: Path[] = [];
 	
@@ -84,11 +85,51 @@ export namespace Metro {
 			const path1 = paths.find(path => path.info.first.info.id === currentStation && path.info.second.info.id === previousStation);
 			const path2 = paths.find(path => path.info.first.info.id === previousStation && path.info.second.info.id === currentStation);
 			// On ajoute le chemin trouvé au chemin final
+			if (path1 === path2) continue;
 			if (path1) path.push(path1);
 			if (path2) path.push(path2);
 			currentStation = previousStation;
 		}
 		
 		return path.reverse();
+	}
+	
+	export const kruskal = (): Path[] => {
+		const pathsCopy = [...paths, ...paths.map(path => new Path({first: path.info.second, second: path.info.first, time: path.info.time}))];
+		
+		pathsCopy.sort((a, b) => a.info.time - b.info.time);
+		
+		const tree: Path[] = [];
+		
+		const find = (station: Station, trees: Station[][]): Station[] => {
+			for (let i = 0; i < trees.length; i++) {
+				if (trees[i].find(s => s.info.id === station.info.id)) return trees[i];
+			}
+			return [];
+		}
+		
+		const trees: Station[][] = [];
+		
+		for (let i = 0; i < pathsCopy.length; i++) {
+			const path = pathsCopy[i];
+			const firstTree = find(path.info.first, trees);
+			const secondTree = find(path.info.second, trees);
+			
+			if (firstTree.length === 0 && secondTree.length === 0) {
+				trees.push([path.info.first, path.info.second]);
+				tree.push(path);
+			} else if (firstTree.length === 0) {
+				secondTree.push(path.info.first);
+				tree.push(path);
+			} else if (secondTree.length === 0) {
+				firstTree.push(path.info.second);
+				tree.push(path);
+			} else if (firstTree !== secondTree) {
+				trees.push([...firstTree, ...secondTree]);
+				tree.push(path);
+			}
+		}
+		return tree;
+		
 	}
 }

@@ -14,4 +14,8 @@ export default class Path {
 		this.info = info;
 	}
 	
+	toString = (): string => {
+		return `${this.info.first.info.name} <-> ${this.info.second.info.name} (${this.info.time} minutes)`
+	}
+	
 }
