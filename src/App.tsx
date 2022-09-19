@@ -1,9 +1,21 @@
-import React, {useEffect, useRef} from 'react'
-import {useMetro} from "./hooks/src/metro";
+import React, {useEffect, useRef, useState} from 'react'
+import {useMetro} from "./hooks";
+import Station from "./api/Station";
 
 function App() {
 
     const ref = useRef<HTMLCanvasElement | null>(null)
+
+    const [depart, setDepart] = useState("")
+
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+        e.preventDefault()
+        console.log("submit")
+    }
+
+    const handleDepart = (e: React.ChangeEvent<HTMLInputElement>) => {
+        setDepart(e.target.value)
+    }
 
     useEffect(() => {
 
@@ -18,14 +30,30 @@ function App() {
 
     }, [ref])
 
-    const {Metro} = useMetro()
+    const {station} = useMetro()
 
-    console.log(Metro)
+    console.log(station)
 
 
     return (
         <div className="App">
-            <canvas width={1000} height={1000} ref={ref} id="metro" />
+            <form onSubmit={handleSubmit}>
+                <div>
+                    <label>Station de départ</label>
+                    <input onChange={handleDepart} value={depart} type="text"/>
+                    {depart.length > 0 && <ul>
+                        {station.filter((s) => s.info.name.toLowerCase().includes(depart.toLowerCase())).map(s =>
+                            <li>{s.info.name} - {s?.metroLine?.info.name}</li>)
+                        }
+                    </ul>}
+                </div>
+                <div>
+                    <label>Station d'arriver</label>
+                    <input type="text"/>
+                </div>
+                <button>calculer</button>
+            </form>
+            <canvas width={987} height={952} ref={ref} id="metro"/>
         </div>
     )
 }

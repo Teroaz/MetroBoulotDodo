@@ -4,30 +4,41 @@ import Line from "../../api/Line";
 import Station from "../../api/Station";
 import {HexColorString} from "../../assets/data/colors";
 import Path from "../../api/Path";
+import {useEffect, useState} from "react";
 
 export const useMetro = () => {
 
-    for (const station of metroJSON.stations) {
-        Metro.stations.push(new Station(station));
-        console.info(`[${station.id}] Station ${station.name} added !`);
-    }
+    const [station, setStation] = useState<Station[]>([])
+    const [line, setLine] = useState<Line[]>([])
+    const [path, setPath] = useState<Path[]>([])
 
-    for (const line of metroJSON.lines) {
-        const stations = line.stations.map(id => Metro.stations.find(station => station.info.id === id)!);
-        Metro.lines.push(new Line({name: line.name, stations, color: line.color as HexColorString}));
-        console.info(`Line ${line.name} with ${stations.length} stations added !!`);
-    }
+    useEffect(() => {
+        for (const station of metroJSON.stations) {
+            Metro.stations.push(new Station(station));
+        }
 
-    for (const path of metroJSON.paths) {
-        Metro.paths.push(new Path({
-            first: Metro.stations.find(station => station.info.id === path.first)!,
-            second: Metro.stations.find(station => station.info.id === path.second)!,
-            time: path.time
-        }));
-        console.info(`Path between ${path.first} and ${path.second} with ${path.time} min. added !`);
-    }
+        for (const line of metroJSON.lines) {
+            const stations = line.stations.map(id => Metro.stations.find(station => station.info.id === id)!);
+            Metro.lines.push(new Line({name: line.name, stations, color: line.color as HexColorString}));
+        }
+
+        for (const path of metroJSON.paths) {
+            Metro.paths.push(new Path({
+                first: Metro.stations.find(station => station.info.id === path.first)!,
+                second: Metro.stations.find(station => station.info.id === path.second)!,
+                time: path.time
+            }));
+        }
+
+        setStation(Metro.stations)
+        setLine(Metro.lines)
+        setPath(Metro.paths)
+    }, [])
+
 
     return {
-        Metro
+        station,
+        line,
+        path
     }
 }
