@@ -5,6 +5,7 @@ export type StationInfo = {
 	name: string;
 	isTerminus: boolean;
 	branchementType: number;
+	coordinates : {x: number, y: number};
 }
 
 export default class Station {

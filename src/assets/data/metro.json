@@ -4,2257 +4,3761 @@
             "id": 0,
             "name": "Abbesses",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 488,
+                "y": 289
+            }
         },
         {
             "id": 1,
             "name": "Alexandre Dumas",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 788,
+                "y": 556
+            }
         },
         {
             "id": 2,
             "name": "Alma Marceau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 258,
+                "y": 530
+            }
         },
         {
             "id": 3,
             "name": "Alésia",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 497,
+                "y": 833
+            }
         },
         {
             "id": 4,
             "name": "Anatole France",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 243,
+                "y": 258
+            }
         },
         {
             "id": 5,
             "name": "Anvers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 527,
+                "y": 308
+            }
         },
         {
             "id": 6,
             "name": "Argentine",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 208,
+                "y": 413
+            }
         },
         {
             "id": 7,
             "name": "Arts et Métiers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 624,
+                "y": 495
+            }
         },
         {
             "id": 8,
             "name": "Arts et Métiers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 624,
+                "y": 495
+            }
         },
         {
             "id": 9,
             "name": "Assemblée Nationale",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 335,
+                "y": 587
+            }
         },
         {
             "id": 10,
             "name": "Aubervilliers-Pantin, Quatre Chemins",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 766,
+                "y": 212
+            }
         },
         {
             "id": 11,
             "name": "Avenue Émile Zola",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 237,
+                "y": 693
+            }
         },
         {
             "id": 12,
             "name": "Avron",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 791,
+                "y": 593
+            }
         },
         {
             "id": 13,
             "name": "Barbès Rochechouart",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 574,
+                "y": 313
+            }
         },
         {
             "id": 14,
             "name": "Barbès Rochechouart",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 574,
+                "y": 313
+            }
         },
         {
             "id": 15,
             "name": "Basilique de Saint-Denis",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 582,
+                "y": 115
+            }
         },
         {
             "id": 16,
             "name": "Bastille",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 650,
+                "y": 600
+            }
         },
         {
             "id": 17,
             "name": "Bastille",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 650,
+                "y": 600
+            }
         },
         {
             "id": 18,
             "name": "Bastille",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 650,
+                "y": 600
+            }
         },
         {
             "id": 19,
             "name": "Bel Air",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 813,
+                "y": 687
+            }
         },
         {
             "id": 20,
             "name": "Belleville",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 711,
+                "y": 405
+            }
         },
         {
             "id": 21,
             "name": "Belleville",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 711,
+                "y": 405
+            }
         },
         {
             "id": 22,
             "name": "Bercy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 746,
+                "y": 753
+            }
         },
         {
             "id": 23,
             "name": "Bercy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 746,
+                "y": 753
+            }
         },
         {
             "id": 24,
             "name": "Bibliothèque François Mitterand",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 744,
+                "y": 811
+            }
         },
         {
             "id": 25,
             "name": "Billancourt",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 85,
+                "y": 832
+            }
         },
         {
             "id": 26,
             "name": "Bir-Hakeim",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 201,
+                "y": 631
+            }
         },
         {
             "id": 27,
             "name": "Blanche",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 310
+            }
         },
         {
             "id": 28,
             "name": "Bobigny, Pablo Picasso",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 902,
+                "y": 237
+            }
         },
         {
             "id": 29,
             "name": "Bobigny-Pantin, Raymond Queneau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 877,
+                "y": 262
+            }
         },
         {
             "id": 30,
             "name": "Boissière",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 171,
+                "y": 505
+            }
         },
         {
             "id": 31,
             "name": "Bolivar",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 731,
+                "y": 354
+            }
         },
         {
             "id": 32,
             "name": "Bonne Nouvelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 559,
+                "y": 447
+            }
         },
         {
             "id": 33,
             "name": "Bonne Nouvelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 559,
+                "y": 447
+            }
         },
         {
             "id": 34,
             "name": "Botzaris",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 791,
+                "y": 360
+            }
         },
         {
             "id": 35,
             "name": "Boucicaut",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 252,
+                "y": 779
+            }
         },
         {
             "id": 36,
             "name": "Boulogne, Jean Jaurès",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 68,
+                "y": 749
+            }
         },
         {
             "id": 37,
             "name": "Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 48,
+                "y": 768
+            }
         },
         {
             "id": 38,
             "name": "Bourse",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 478,
+                "y": 500
+            }
         },
         {
             "id": 39,
             "name": "Brochant",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 362,
+                "y": 255
+            }
         },
         {
             "id": 40,
             "name": "Bréguet-Sabin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 672,
+                "y": 562
+            }
         },
         {
             "id": 41,
             "name": "Buttes Chaumont",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 770,
+                "y": 359
+            }
         },
         {
             "id": 42,
             "name": "Buzenval",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 834,
+                "y": 602
+            }
         },
         {
             "id": 43,
             "name": "Bérault",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 892,
+                "y": 669
+            }
         },
         {
             "id": 44,
             "name": "Cadet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 504,
+                "y": 380
+            }
         },
         {
             "id": 45,
             "name": "Cambronne",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 311,
+                "y": 698
+            }
         },
         {
             "id": 46,
             "name": "Campo-Formio",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 633,
+                "y": 763
+            }
         },
         {
             "id": 47,
             "name": "Cardinal Lemoine",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 560,
+                "y": 678
+            }
         },
         {
             "id": 48,
             "name": "Carrefour Pleyel",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 458,
+                "y": 144
+            }
         },
         {
             "id": 49,
             "name": "Censier Daubenton",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 570,
+                "y": 742
+            }
         },
         {
             "id": 50,
             "name": "Champs Élysées, Clémenceau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 313,
+                "y": 516
+            }
         },
         {
             "id": 51,
             "name": "Champs Élysées, Clémenceau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 313,
+                "y": 516
+            }
         },
         {
             "id": 52,
             "name": "Chardon Lagâche",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 134,
+                "y": 742
+            }
         },
         {
             "id": 53,
             "name": "Charenton-Écoles",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 841,
+                "y": 818
+            }
         },
         {
             "id": 54,
             "name": "Charles Michels",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 221,
+                "y": 706
+            }
         },
         {
             "id": 55,
             "name": "Charles de Gaulle, Étoile",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 231,
+                "y": 438
+            }
         },
         {
             "id": 56,
             "name": "Charles de Gaulle, Étoile",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 231,
+                "y": 438
+            }
         },
         {
             "id": 57,
             "name": "Charles de Gaulle, Étoile",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 231,
+                "y": 438
+            }
         },
         {
             "id": 58,
             "name": "Charonne",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 762,
+                "y": 571
+            }
         },
         {
             "id": 59,
             "name": "Chaussée d'Antin, La Fayette",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 442,
+                "y": 443
+            }
         },
         {
             "id": 60,
             "name": "Chaussée d'Antin, La Fayette",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 442,
+                "y": 443
+            }
         },
         {
             "id": 61,
             "name": "Chemin Vert",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 644,
+                "y": 563
+            }
         },
         {
             "id": 62,
             "name": "Chevaleret",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 677,
+                "y": 802
+            }
         },
         {
             "id": 63,
             "name": "Château Landon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 659,
+                "y": 359
+            }
         },
         {
             "id": 64,
             "name": "Château Rouge",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 544,
+                "y": 282
+            }
         },
         {
             "id": 65,
             "name": "Château d'Eau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 598,
+                "y": 400
+            }
         },
         {
             "id": 66,
             "name": "Château de Vincennes",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 907,
+                "y": 682
+            }
         },
         {
             "id": 67,
             "name": "Châtelet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 528,
+                "y": 558
+            }
         },
         {
             "id": 68,
             "name": "Châtelet",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 528,
+                "y": 558
+            }
         },
         {
             "id": 69,
             "name": "Châtelet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 528,
+                "y": 558
+            }
         },
         {
             "id": 70,
             "name": "Châtelet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 528,
+                "y": 558
+            }
         },
         {
             "id": 71,
             "name": "Châtelet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 528,
+                "y": 558
+            }
         },
         {
             "id": 72,
             "name": "Châtillon-Montrouge",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 351,
+                "y": 934
+            }
         },
         {
             "id": 73,
             "name": "Cité",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 511,
+                "y": 582
+            }
         },
         {
             "id": 74,
             "name": "Cluny, La Sorbonne",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 516,
+                "y": 641
+            }
         },
         {
             "id": 75,
             "name": "Colonel Fabien",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 712,
+                "y": 369
+            }
         },
         {
             "id": 76,
             "name": "Commerce",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 262,
+                "y": 720
+            }
         },
         {
             "id": 77,
             "name": "Concorde",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 328,
+                "y": 532
+            }
         },
         {
             "id": 78,
             "name": "Concorde",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 328,
+                "y": 532
+            }
         },
         {
             "id": 79,
             "name": "Concorde",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 328,
+                "y": 532
+            }
         },
         {
             "id": 80,
             "name": "Convention",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 296,
+                "y": 816
+            }
         },
         {
             "id": 81,
             "name": "Corentin Celton",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 246,
+                "y": 866
+            }
         },
         {
             "id": 82,
             "name": "Corentin-Cariou",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 723,
+                "y": 256
+            }
         },
         {
             "id": 83,
             "name": "Corvisart",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 585,
+                "y": 802
+            }
         },
         {
             "id": 84,
             "name": "Cour Saint-Émilion",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 765,
+                "y": 788
+            }
         },
         {
             "id": 85,
             "name": "Courcelles",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 283,
+                "y": 386
+            }
         },
         {
             "id": 86,
             "name": "Couronnes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 735,
+                "y": 435
+            }
         },
         {
             "id": 87,
             "name": "Crimée",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 708,
+                "y": 272
+            }
         },
         {
             "id": 88,
             "name": "Croix de Chavaux",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 892,
+                "y": 545
+            }
         },
         {
             "id": 89,
             "name": "Créteil-Préfecture",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 883,
+                "y": 934
+            }
         },
         {
             "id": 90,
             "name": "Créteil-Université",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 882,
+                "y": 915
+            }
         },
         {
             "id": 91,
             "name": "Créteil-l'Echat, Hôpital Henri Mondor",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 883,
+                "y": 897
+            }
         },
         {
             "id": 92,
             "name": "Danube",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 821,
+                "y": 334
+            }
         },
         {
             "id": 93,
             "name": "Daumesnil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 791,
+                "y": 706
+            }
         },
         {
             "id": 94,
             "name": "Daumesnil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 791,
+                "y": 706
+            }
         },
         {
             "id": 95,
             "name": "Denfert Rochereau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 512,
+                "y": 773
+            }
         },
         {
             "id": 96,
             "name": "Denfert Rochereau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 512,
+                "y": 773
+            }
         },
         {
             "id": 97,
             "name": "Dugommier",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 767,
+                "y": 731
+            }
         },
         {
             "id": 98,
             "name": "Dupleix",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 227,
+                "y": 657
+            }
         },
         {
             "id": 99,
             "name": "Duroc",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 362,
+                "y": 698
+            }
         },
         {
             "id": 100,
             "name": "Duroc",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 362,
+                "y": 698
+            }
         },
         {
             "id": 101,
             "name": "Edgar Quinet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 446,
+                "y": 740
+            }
         },
         {
             "id": 102,
             "name": "Esplanade de la Défense",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 115,
+                "y": 320
+            }
         },
         {
             "id": 103,
             "name": "Europe",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 353,
+                "y": 367
+            }
         },
         {
             "id": 104,
             "name": "Exelmans",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 118,
+                "y": 770
+            }
         },
         {
             "id": 105,
             "name": "Faidherbe-Chaligny",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 719,
+                "y": 633
+            }
         },
         {
             "id": 106,
             "name": "Falguière",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 385,
+                "y": 729
+            }
         },
         {
             "id": 107,
             "name": "Filles du Calvaire",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 644,
+                "y": 508
+            }
         },
         {
             "id": 108,
             "name": "Fort d'Aubervilliers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 789,
+                "y": 192
+            }
         },
         {
             "id": 109,
             "name": "Franklin D. Roosevelt",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 291,
+                "y": 496
+            }
         },
         {
             "id": 110,
             "name": "Franklin D. Roosevelt",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 291,
+                "y": 496
+            }
         },
         {
             "id": 111,
             "name": "Félix Faure",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 263,
+                "y": 748
+            }
         },
         {
             "id": 112,
             "name": "Gabriel Péri, Asnières-Gennevilliers",
             "isTerminus": true,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 270,
+                "y": 163
+            }
         },
         {
             "id": 113,
             "name": "Gaité",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 429,
+                "y": 773
+            }
         },
         {
             "id": 114,
             "name": "Galliéni",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 904,
+                "y": 496
+            }
         },
         {
             "id": 115,
             "name": "Gambetta",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 830,
+                "y": 493
+            }
         },
         {
             "id": 116,
             "name": "Gambetta",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 830,
+                "y": 493
+            }
         },
         {
             "id": 117,
             "name": "Gare d'Austerlitz",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 646,
+                "y": 720
+            }
         },
         {
             "id": 118,
             "name": "Gare d'Austerlitz",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 646,
+                "y": 720
+            }
         },
         {
             "id": 119,
             "name": "Gare de Lyon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 676,
+                "y": 679
+            }
         },
         {
             "id": 120,
             "name": "Gare de Lyon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 676,
+                "y": 679
+            }
         },
         {
             "id": 121,
             "name": "Gare de l'Est",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 623,
+                "y": 372
+            }
         },
         {
             "id": 122,
             "name": "Gare de l'Est",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 623,
+                "y": 372
+            }
         },
         {
             "id": 123,
             "name": "Gare de l'Est",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 623,
+                "y": 372
+            }
         },
         {
             "id": 124,
             "name": "Gare du Nord",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 635,
+                "y": 338
+            }
         },
         {
             "id": 125,
             "name": "Gare du Nord",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 635,
+                "y": 338
+            }
         },
         {
             "id": 126,
             "name": "Garibaldi",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 408,
+                "y": 193
+            }
         },
         {
             "id": 127,
             "name": "George V",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 262,
+                "y": 467
+            }
         },
         {
             "id": 128,
             "name": "Glacière",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 554,
+                "y": 803
+            }
         },
         {
             "id": 129,
             "name": "Goncourt",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 686,
+                "y": 432
+            }
         },
         {
             "id": 130,
             "name": "Grande Arche de la Défense",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 98,
+                "y": 299
+            }
         },
         {
             "id": 131,
             "name": "Guy Môquet",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 384,
+                "y": 253
+            }
         },
         {
             "id": 132,
             "name": "Havre Caumartin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 397,
+                "y": 443
+            }
         },
         {
             "id": 133,
             "name": "Havre Caumartin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 397,
+                "y": 443
+            }
         },
         {
             "id": 134,
             "name": "Hoche",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 832,
+                "y": 295
+            }
         },
         {
             "id": 135,
             "name": "Hôtel de Ville",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 569,
+                "y": 549
+            }
         },
         {
             "id": 136,
             "name": "Hôtel de Ville",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 569,
+                "y": 549
+            }
         },
         {
             "id": 137,
             "name": "Invalides",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 312,
+                "y": 576
+            }
         },
         {
             "id": 138,
             "name": "Invalides",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 312,
+                "y": 576
+            }
         },
         {
             "id": 139,
             "name": "Iéna",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 212,
+                "y": 549
+            }
         },
         {
             "id": 140,
             "name": "Jacques Bonsergent",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 638,
+                "y": 421
+            }
         },
         {
             "id": 141,
             "name": "Jasmin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 116,
+                "y": 674
+            }
         },
         {
             "id": 142,
             "name": "Jaurès",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 707,
+                "y": 337
+            }
         },
         {
             "id": 143,
             "name": "Jaurès",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 707,
+                "y": 337
+            }
         },
         {
             "id": 144,
             "name": "Jaurès",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 707,
+                "y": 337
+            }
         },
         {
             "id": 145,
             "name": "Javel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 192,
+                "y": 715
+            }
         },
         {
             "id": 146,
             "name": "Jourdain",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 786,
+                "y": 389
+            }
         },
         {
             "id": 147,
             "name": "Jules Joffrin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 514,
+                "y": 262
+            }
         },
         {
             "id": 148,
             "name": "Jussieu",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 589,
+                "y": 692
+            }
         },
         {
             "id": 149,
             "name": "Jussieu",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 589,
+                "y": 692
+            }
         },
         {
             "id": 150,
             "name": "Kléber",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 204,
+                "y": 474
+            }
         },
         {
             "id": 151,
             "name": "La Chapelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 625,
+                "y": 310
+            }
         },
         {
             "id": 152,
             "name": "La Courneuve, 8 Mai 1945",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 791,
+                "y": 158
+            }
         },
         {
             "id": 153,
             "name": "La Fourche",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 383,
+                "y": 283
+            }
         },
         {
             "id": 154,
             "name": "La Motte Picquet, Grenelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 262,
+                "y": 685
+            }
         },
         {
             "id": 155,
             "name": "La Motte Picquet, Grenelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 262,
+                "y": 685
+            }
         },
         {
             "id": 156,
             "name": "La Motte Picquet, Grenelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 262,
+                "y": 685
+            }
         },
         {
             "id": 157,
             "name": "La Muette",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 116,
+                "y": 593
+            }
         },
         {
             "id": 158,
             "name": "La Tour-Maubourg",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 287,
+                "y": 600
+            }
         },
         {
             "id": 159,
             "name": "Lamarck Caulaincourt",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 486,
+                "y": 264
+            }
         },
         {
             "id": 160,
             "name": "Laumière",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 731,
+                "y": 313
+            }
         },
         {
             "id": 161,
             "name": "Le Kremlin-Bicêtre",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 604,
+                "y": 866
+            }
         },
         {
             "id": 162,
             "name": "Le Peletier",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 485,
+                "y": 400
+            }
         },
         {
             "id": 163,
             "name": "Ledru Rollin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 673,
+                "y": 615
+            }
         },
         {
             "id": 164,
             "name": "Les Gobelins",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 588,
+                "y": 769
+            }
         },
         {
             "id": 165,
             "name": "Les Halles",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 527,
+                "y": 531
+            }
         },
         {
             "id": 166,
             "name": "Les Sablons",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 154,
+                "y": 359
+            }
         },
         {
             "id": 167,
             "name": "Liberté",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 818,
+                "y": 795
+            }
         },
         {
             "id": 168,
             "name": "Liège",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 386,
+                "y": 346
+            }
         },
         {
             "id": 169,
             "name": "Louis Blanc",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 682,
+                "y": 347
+            }
         },
         {
             "id": 170,
             "name": "Louis Blanc",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 682,
+                "y": 347
+            }
         },
         {
             "id": 171,
             "name": "Louise Michel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 255,
+                "y": 269
+            }
         },
         {
             "id": 172,
             "name": "Lourmel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 230,
+                "y": 799
+            }
         },
         {
             "id": 173,
             "name": "Louvre, Rivoli",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 453,
+                "y": 549
+            }
         },
         {
             "id": 174,
             "name": "Mabillon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 456,
+                "y": 643
+            }
         },
         {
             "id": 175,
             "name": "Madeleine",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 334,
+                "y": 498
+            }
         },
         {
             "id": 176,
             "name": "Madeleine",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 334,
+                "y": 498
+            }
         },
         {
             "id": 177,
             "name": "Madeleine",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 334,
+                "y": 498
+            }
         },
         {
             "id": 178,
             "name": "Mairie d'Issy",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 220,
+                "y": 893
+            }
         },
         {
             "id": 179,
             "name": "Mairie d'Ivry",
             "isTerminus": true,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 742,
+                "y": 888
+            }
         },
         {
             "id": 180,
             "name": "Mairie de Clichy",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 303,
+                "y": 196
+            }
         },
         {
             "id": 181,
             "name": "Mairie de Montreuil",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 906,
+                "y": 530
+            }
         },
         {
             "id": 182,
             "name": "Mairie de Saint-Ouen",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 433,
+                "y": 169
+            }
         },
         {
             "id": 183,
             "name": "Mairie des Lilas",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 906,
+                "y": 358
+            }
         },
         {
             "id": 184,
             "name": "Maison Blanche",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 606,
+                "y": 843
+            }
         },
         {
             "id": 185,
             "name": "Maisons-Alfort les Juilliottes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 883,
+                "y": 878
+            }
         },
         {
             "id": 186,
             "name": "Maisons-Alfort, Stade",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 882,
+                "y": 860
+            }
         },
         {
             "id": 187,
             "name": "Malakoff-Plateau de Vanves",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 352,
+                "y": 875
+            }
         },
         {
             "id": 188,
             "name": "Malakoff-Rue Étienne Dolet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 352,
+                "y": 903
+            }
         },
         {
             "id": 189,
             "name": "Malesherbes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 313,
+                "y": 326
+            }
         },
         {
             "id": 190,
             "name": "Maraîchers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 849,
+                "y": 588
+            }
         },
         {
             "id": 191,
             "name": "Marcadet Poissonniers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 545,
+                "y": 263
+            }
         },
         {
             "id": 192,
             "name": "Marcadet Poissonniers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 545,
+                "y": 263
+            }
         },
         {
             "id": 193,
             "name": "Marcel Sembat",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 100,
+                "y": 815
+            }
         },
         {
             "id": 194,
             "name": "Marx Dormoy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 629,
+                "y": 251
+            }
         },
         {
             "id": 195,
             "name": "Maubert Mutualité",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 541,
+                "y": 658
+            }
         },
         {
             "id": 196,
             "name": "Michel Ange Auteuil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 116,
+                "y": 715
+            }
         },
         {
             "id": 197,
             "name": "Michel Ange Auteuil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 116,
+                "y": 715
+            }
         },
         {
             "id": 198,
             "name": "Michel Ange Molitor",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 117,
+                "y": 741
+            }
         },
         {
             "id": 199,
             "name": "Michel Ange Molitor",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 117,
+                "y": 741
+            }
         },
         {
             "id": 200,
             "name": "Michel Bizot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 808,
+                "y": 722
+            }
         },
         {
             "id": 201,
             "name": "Mirabeau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 160,
+                "y": 732
+            }
         },
         {
             "id": 202,
             "name": "Miromesnil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 346,
+                "y": 449
+            }
         },
         {
             "id": 203,
             "name": "Miromesnil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 346,
+                "y": 449
+            }
         },
         {
             "id": 204,
             "name": "Monceau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 304,
+                "y": 364
+            }
         },
         {
             "id": 205,
             "name": "Montgallet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 766,
+                "y": 681
+            }
         },
         {
             "id": 206,
             "name": "Montparnasse Bienvenue",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 729
+            }
         },
         {
             "id": 207,
             "name": "Montparnasse Bienvenue",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 729
+            }
         },
         {
             "id": 208,
             "name": "Montparnasse Bienvenue",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 729
+            }
         },
         {
             "id": 209,
             "name": "Montparnasse Bienvenue",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 729
+            }
         },
         {
             "id": 210,
             "name": "Mouton-Duvernet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 505,
+                "y": 798
+            }
         },
         {
             "id": 211,
             "name": "Ménilmontant",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 762,
+                "y": 462
+            }
         },
         {
             "id": 212,
             "name": "Nation",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 798,
+                "y": 628
+            }
         },
         {
             "id": 213,
             "name": "Nation",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 798,
+                "y": 628
+            }
         },
         {
             "id": 214,
             "name": "Nation",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 798,
+                "y": 628
+            }
         },
         {
             "id": 215,
             "name": "Nation",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 798,
+                "y": 628
+            }
         },
         {
             "id": 216,
             "name": "Nationale",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 645,
+                "y": 802
+            }
         },
         {
             "id": 217,
             "name": "Notre Dame de Lorette",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 478,
+                "y": 385
+            }
         },
         {
             "id": 218,
             "name": "Notre-Dame-des-Champs",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 450,
+                "y": 710
+            }
         },
         {
             "id": 219,
             "name": "Oberkampf",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 677,
+                "y": 481
+            }
         },
         {
             "id": 220,
             "name": "Oberkampf",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 677,
+                "y": 481
+            }
         },
         {
             "id": 221,
             "name": "Odéon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 489,
+                "y": 637
+            }
         },
         {
             "id": 222,
             "name": "Odéon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 489,
+                "y": 637
+            }
         },
         {
             "id": 223,
             "name": "Opéra",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 421,
+                "y": 465
+            }
         },
         {
             "id": 224,
             "name": "Opéra",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 421,
+                "y": 465
+            }
         },
         {
             "id": 225,
             "name": "Opéra",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 421,
+                "y": 465
+            }
         },
         {
             "id": 226,
             "name": "Ourcq",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 758,
+                "y": 295
+            }
         },
         {
             "id": 227,
             "name": "Palais Royal, Musée du Louvre",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 417,
+                "y": 549
+            }
         },
         {
             "id": 228,
             "name": "Palais Royal, Musée du Louvre",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 417,
+                "y": 549
+            }
         },
         {
             "id": 229,
             "name": "Parmentier",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 737,
+                "y": 481
+            }
         },
         {
             "id": 230,
             "name": "Passy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 172,
+                "y": 601
+            }
         },
         {
             "id": 231,
             "name": "Pasteur",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 375,
+                "y": 740
+            }
         },
         {
             "id": 232,
             "name": "Pasteur",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 375,
+                "y": 740
+            }
         },
         {
             "id": 233,
             "name": "Pelleport",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 856,
+                "y": 458
+            }
         },
         {
             "id": 234,
             "name": "Pernety",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 416,
+                "y": 797
+            }
         },
         {
             "id": 235,
             "name": "Philippe-Auguste",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 788,
+                "y": 522
+            }
         },
         {
             "id": 236,
             "name": "Picpus",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 831,
+                "y": 667
+            }
         },
         {
             "id": 237,
             "name": "Pierre Curie",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 725,
+                "y": 872
+            }
         },
         {
             "id": 238,
             "name": "Pigalle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 488,
+                "y": 311
+            }
         },
         {
             "id": 239,
             "name": "Pigalle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 488,
+                "y": 311
+            }
         },
         {
             "id": 240,
             "name": "Place Balard",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 209,
+                "y": 823
+            }
         },
         {
             "id": 241,
             "name": "Place Monge",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 569,
+                "y": 713
+            }
         },
         {
             "id": 242,
             "name": "Place d'Italie",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 614,
+                "y": 801
+            }
         },
         {
             "id": 243,
             "name": "Place d'Italie",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 614,
+                "y": 801
+            }
         },
         {
             "id": 244,
             "name": "Place d'Italie",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 614,
+                "y": 801
+            }
         },
         {
             "id": 245,
             "name": "Place de Clichy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 385,
+                "y": 310
+            }
         },
         {
             "id": 246,
             "name": "Place de Clichy",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 385,
+                "y": 310
+            }
         },
         {
             "id": 247,
             "name": "Place des Fêtes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 820,
+                "y": 384
+            }
         },
         {
             "id": 248,
             "name": "Place des Fêtes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 820,
+                "y": 384
+            }
         },
         {
             "id": 249,
             "name": "Plaisance",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 393,
+                "y": 820
+            }
         },
         {
             "id": 250,
             "name": "Poissonnière",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 553,
+                "y": 373
+            }
         },
         {
             "id": 251,
             "name": "Pont de Levallois, Bécon",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 231,
+                "y": 245
+            }
         },
         {
             "id": 252,
             "name": "Pont de Neuilly",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 135,
+                "y": 339
+            }
         },
         {
             "id": 253,
             "name": "Pont de Sèvres",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 66,
+                "y": 849
+            }
         },
         {
             "id": 254,
             "name": "Pont-Marie",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 581,
+                "y": 593
+            }
         },
         {
             "id": 255,
             "name": "Pont-Neuf",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 480,
+                "y": 550
+            }
         },
         {
             "id": 256,
             "name": "Porte Dauphine",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 148,
+                "y": 441
+            }
         },
         {
             "id": 257,
             "name": "Porte Dorée",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 820,
+                "y": 743
+            }
         },
         {
             "id": 258,
             "name": "Porte Maillot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 178,
+                "y": 381
+            }
         },
         {
             "id": 259,
             "name": "Porte d'Auteuil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 87,
+                "y": 731
+            }
         },
         {
             "id": 260,
             "name": "Porte d'Italie",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 634,
+                "y": 859
+            }
         },
         {
             "id": 261,
             "name": "Porte d'Ivry",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 703,
+                "y": 859
+            }
         },
         {
             "id": 262,
             "name": "Porte d'Orléans",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 473,
+                "y": 854
+            }
         },
         {
             "id": 263,
             "name": "Porte de Bagnolet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 872,
+                "y": 496
+            }
         },
         {
             "id": 264,
             "name": "Porte de Champerret",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 268,
+                "y": 281
+            }
         },
         {
             "id": 265,
             "name": "Porte de Charenton",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 799,
+                "y": 764
+            }
         },
         {
             "id": 266,
             "name": "Porte de Choisy",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 669,
+                "y": 858
+            }
         },
         {
             "id": 267,
             "name": "Porte de Clichy",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 341,
+                "y": 234
+            }
         },
         {
             "id": 268,
             "name": "Porte de Clignancourt",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 515,
+                "y": 222
+            }
         },
         {
             "id": 269,
             "name": "Porte de Montreuil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 864,
+                "y": 574
+            }
         },
         {
             "id": 270,
             "name": "Porte de Pantin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 794,
+                "y": 295
+            }
         },
         {
             "id": 271,
             "name": "Porte de Saint-Cloud",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 118,
+                "y": 794
+            }
         },
         {
             "id": 272,
             "name": "Porte de Saint-Ouen",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 384,
+                "y": 223
+            }
         },
         {
             "id": 273,
             "name": "Porte de Vanves",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 370,
+                "y": 843
+            }
         },
         {
             "id": 274,
             "name": "Porte de Versailles",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 272,
+                "y": 841
+            }
         },
         {
             "id": 275,
             "name": "Porte de Vincennes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 845,
+                "y": 634
+            }
         },
         {
             "id": 276,
             "name": "Porte de la Chapelle",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 628,
+                "y": 225
+            }
         },
         {
             "id": 277,
             "name": "Porte de la Villette",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 740,
+                "y": 240
+            }
         },
         {
             "id": 278,
             "name": "Porte des Lilas",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 879,
+                "y": 382
+            }
         },
         {
             "id": 279,
             "name": "Porte des Lilas",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 879,
+                "y": 382
+            }
         },
         {
             "id": 280,
             "name": "Pré-Saint-Gervais",
             "isTerminus": true,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 845,
+                "y": 354
+            }
         },
         {
             "id": 281,
             "name": "Pyramides",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 417,
+                "y": 504
+            }
         },
         {
             "id": 282,
             "name": "Pyramides",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 417,
+                "y": 504
+            }
         },
         {
             "id": 283,
             "name": "Pyrénées",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 747,
+                "y": 391
+            }
         },
         {
             "id": 284,
             "name": "Père Lachaise",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 788,
+                "y": 495
+            }
         },
         {
             "id": 285,
             "name": "Père Lachaise",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 788,
+                "y": 495
+            }
         },
         {
             "id": 286,
             "name": "Péreire",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 287,
+                "y": 300
+            }
         },
         {
             "id": 287,
             "name": "Quai de la Gare",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 711,
+                "y": 788
+            }
         },
         {
             "id": 288,
             "name": "Quai de la Rapée",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 649,
+                "y": 667
+            }
         },
         {
             "id": 289,
             "name": "Quatre Septembre",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 442,
+                "y": 489
+            }
         },
         {
             "id": 290,
             "name": "Rambuteau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 595,
+                "y": 523
+            }
         },
         {
             "id": 291,
             "name": "Ranelagh",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 116,
+                "y": 634
+            }
         },
         {
             "id": 292,
             "name": "Raspail",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 490,
+                "y": 749
+            }
         },
         {
             "id": 293,
             "name": "Raspail",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 490,
+                "y": 749
+            }
         },
         {
             "id": 294,
             "name": "Rennes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 427,
+                "y": 677
+            }
         },
         {
             "id": 295,
             "name": "Reuilly Diderot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 741,
+                "y": 656
+            }
         },
         {
             "id": 296,
             "name": "Reuilly Diderot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 741,
+                "y": 656
+            }
         },
         {
             "id": 297,
             "name": "Richard Lenoir",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 694,
+                "y": 538
+            }
         },
         {
             "id": 298,
             "name": "Richelieu Drouot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 472,
+                "y": 447
+            }
         },
         {
             "id": 299,
             "name": "Richelieu Drouot",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 472,
+                "y": 447
+            }
         },
         {
             "id": 300,
             "name": "Riquet",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 693,
+                "y": 286
+            }
         },
         {
             "id": 301,
             "name": "Robespierre",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 878,
+                "y": 559
+            }
         },
         {
             "id": 302,
             "name": "Rome",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 353,
+                "y": 316
+            }
         },
         {
             "id": 303,
             "name": "Rue Montmartre, Grands Boulevards",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 508,
+                "y": 448
+            }
         },
         {
             "id": 304,
             "name": "Rue Montmartre, Grands Boulevards",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 508,
+                "y": 448
+            }
         },
         {
             "id": 305,
             "name": "Rue Saint-Maur",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 759,
+                "y": 496
+            }
         },
         {
             "id": 306,
             "name": "Rue de la Pompe",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 126,
+                "y": 547
+            }
         },
         {
             "id": 307,
             "name": "Rue des Boulets",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 780,
+                "y": 588
+            }
         },
         {
             "id": 308,
             "name": "Rue du Bac",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 382,
+                "y": 632
+            }
         },
         {
             "id": 309,
             "name": "Réaumur Sébastopol",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 565,
+                "y": 502
+            }
         },
         {
             "id": 310,
             "name": "Réaumur Sébastopol",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 565,
+                "y": 502
+            }
         },
         {
             "id": 311,
             "name": "République",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 665,
+                "y": 455
+            }
         },
         {
             "id": 312,
             "name": "République",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 665,
+                "y": 455
+            }
         },
         {
             "id": 313,
             "name": "République",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 665,
+                "y": 455
+            }
         },
         {
             "id": 314,
             "name": "République",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 665,
+                "y": 455
+            }
         },
         {
             "id": 315,
             "name": "République",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 665,
+                "y": 455
+            }
         },
         {
             "id": 316,
             "name": "Saint-Ambroise",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 724,
+                "y": 533
+            }
         },
         {
             "id": 317,
             "name": "Saint-Augustin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 359,
+                "y": 428
+            }
         },
         {
             "id": 318,
             "name": "Saint-Denis-Porte de Paris",
             "isTerminus": false,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 517,
+                "y": 131
+            }
         },
         {
             "id": 319,
             "name": "Saint-Denis-Université",
             "isTerminus": true,
-            "branchementType": 1
+            "branchementType": 1,
+            "coordinates": {
+                "x": 611,
+                "y": 88
+            }
         },
         {
             "id": 320,
             "name": "Saint-Fargeau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 881,
+                "y": 424
+            }
         },
         {
             "id": 321,
             "name": "Saint-Francois Xavier",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 329,
+                "y": 663
+            }
         },
         {
             "id": 322,
             "name": "Saint-Georges",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 488,
+                "y": 348
+            }
         },
         {
             "id": 323,
             "name": "Saint-Germain-des-Prés",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 448,
+                "y": 637
+            }
         },
         {
             "id": 324,
             "name": "Saint-Jacques",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 527,
+                "y": 787
+            }
         },
         {
             "id": 325,
             "name": "Saint-Lazare",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 366,
+                "y": 391
+            }
         },
         {
             "id": 326,
             "name": "Saint-Lazare",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 366,
+                "y": 391
+            }
         },
         {
             "id": 327,
             "name": "Saint-Lazare",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 366,
+                "y": 391
+            }
         },
         {
             "id": 328,
             "name": "Saint-Mandé, Tourelle",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 876,
+                "y": 652
+            }
         },
         {
             "id": 329,
             "name": "Saint-Marcel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 650,
+                "y": 743
+            }
         },
         {
             "id": 330,
             "name": "Saint-Michel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 505,
+                "y": 613
+            }
         },
         {
             "id": 331,
             "name": "Saint-Paul, Le Marais",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 603,
+                "y": 584
+            }
         },
         {
             "id": 332,
             "name": "Saint-Philippe du Roule",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 324,
+                "y": 464
+            }
         },
         {
             "id": 333,
             "name": "Saint-Placide",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 435,
+                "y": 698
+            }
         },
         {
             "id": 334,
             "name": "Saint-Sulpice",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 434,
+                "y": 663
+            }
         },
         {
             "id": 335,
             "name": "Saint-Sébastien-Froissart",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 644,
+                "y": 535
+            }
         },
         {
             "id": 336,
             "name": "Sentier",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 515,
+                "y": 500
+            }
         },
         {
             "id": 337,
             "name": "Simplon",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 530,
+                "y": 237
+            }
         },
         {
             "id": 338,
             "name": "Solférino",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 358,
+                "y": 609
+            }
         },
         {
             "id": 339,
             "name": "Stalingrad",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 684,
+                "y": 321
+            }
         },
         {
             "id": 340,
             "name": "Stalingrad",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 684,
+                "y": 321
+            }
         },
         {
             "id": 341,
             "name": "Stalingrad",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 684,
+                "y": 321
+            }
         },
         {
             "id": 342,
             "name": "Strasbourg Saint-Denis",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 587,
+                "y": 447
+            }
         },
         {
             "id": 343,
             "name": "Strasbourg Saint-Denis",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 587,
+                "y": 447
+            }
         },
         {
             "id": 344,
             "name": "Strasbourg Saint-Denis",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 587,
+                "y": 447
+            }
         },
         {
             "id": 345,
             "name": "Sully Morland",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 603,
+                "y": 616
+            }
         },
         {
             "id": 346,
             "name": "Sèvres Babylone",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 403,
+                "y": 654
+            }
         },
         {
             "id": 347,
             "name": "Sèvres Babylone",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 403,
+                "y": 654
+            }
         },
         {
             "id": 348,
             "name": "Sèvres Lecourbe",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 337,
+                "y": 725
+            }
         },
         {
             "id": 349,
             "name": "Ségur",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 326,
+                "y": 707
+            }
         },
         {
             "id": 350,
             "name": "Temple",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 639,
+                "y": 473
+            }
         },
         {
             "id": 351,
             "name": "Ternes",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 259,
+                "y": 410
+            }
         },
         {
             "id": 352,
             "name": "Tolbiac",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 606,
+                "y": 822
+            }
         },
         {
             "id": 353,
             "name": "Trinité d'Estienne d'Orves",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 424,
+                "y": 385
+            }
         },
         {
             "id": 354,
             "name": "Trocadéro",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 168,
+                "y": 548
+            }
         },
         {
             "id": 355,
             "name": "Trocadéro",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 168,
+                "y": 548
+            }
         },
         {
             "id": 356,
             "name": "Tuileries",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 376,
+                "y": 548
+            }
         },
         {
             "id": 357,
             "name": "Télégraphe",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 855,
+                "y": 390
+            }
         },
         {
             "id": 358,
             "name": "Vaneau",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 382,
+                "y": 676
+            }
         },
         {
             "id": 359,
             "name": "Varenne",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 314,
+                "y": 616
+            }
         },
         {
             "id": 360,
             "name": "Vaugirard",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 322,
+                "y": 793
+            }
         },
         {
             "id": 361,
             "name": "Vavin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 465,
+                "y": 734
+            }
         },
         {
             "id": 362,
             "name": "Victor Hugo",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 181,
+                "y": 476
+            }
         },
         {
             "id": 363,
             "name": "Villejuif, Louis Aragon",
             "isTerminus": true,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 607,
+                "y": 933
+            }
         },
         {
             "id": 364,
             "name": "Villejuif, Léo Lagrange",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 607,
+                "y": 892
+            }
         },
         {
             "id": 365,
             "name": "Villejuif, P. Vaillant Couturier",
             "isTerminus": false,
-            "branchementType": 2
+            "branchementType": 2,
+            "coordinates": {
+                "x": 606,
+                "y": 913
+            }
         },
         {
             "id": 366,
             "name": "Villiers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 328,
+                "y": 342
+            }
         },
         {
             "id": 367,
             "name": "Villiers",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 328,
+                "y": 342
+            }
         },
         {
             "id": 368,
             "name": "Volontaires",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 345,
+                "y": 768
+            }
         },
         {
             "id": 369,
             "name": "Voltaire",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 743,
+                "y": 551
+            }
         },
         {
             "id": 370,
             "name": "Wagram",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 298,
+                "y": 312
+            }
         },
         {
             "id": 371,
             "name": "École Militaire",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 261,
+                "y": 636
+            }
         },
         {
             "id": 372,
             "name": "École Vétérinaire de Maisons-Alfort",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 865,
+                "y": 841
+            }
         },
         {
             "id": 373,
             "name": "Église d'Auteuil",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 147,
+                "y": 715
+            }
         },
         {
             "id": 374,
             "name": "Église de Pantin",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 858,
+                "y": 281
+            }
         },
         {
             "id": 375,
             "name": "Étienne Marcel",
             "isTerminus": false,
-            "branchementType": 0
+            "branchementType": 0,
+            "coordinates": {
+                "x": 527,
+                "y": 511
+            }
         }
     ],
     "lines": [

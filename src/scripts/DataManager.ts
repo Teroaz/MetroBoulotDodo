@@ -57,6 +57,28 @@ export const readMetroTxt = (filename: string = "metro.txt") => {
     }
 }
 
+export const readPosPointsTxt = (filename: string = "pospoints.txt") => {
+    const posPointsTxtData = readFileSync(`${DATA_BASE_PATH}/${filename}`, 'utf8');
+    const {stations} = Metro;
+    
+    for (const row of posPointsTxtData.split("\n")) {
+		if (row == "") continue;
+        let [x, y, name] = row.split(";");
+		if (!name) {
+			console.error(`Could not parse ${row} !`);
+		}
+        name = name.replaceAll("@", " ").replaceAll("\r", "");
+        const station = stations.some(station => station.info.name === name);
+        if (!station) {
+            console.error(`Station ${name} not found !`);
+            continue;
+        }
+        stations.filter(station => station.info.name === name).forEach(station => {
+            station.info.coordinates = {x: Number(x), y: Number(y)};
+        })
+    }
+}
+
 export const writeDataToJson = (filename: string) => {
 
     const {stations, lines, paths} = Metro;
@@ -70,6 +92,7 @@ export const writeDataToJson = (filename: string) => {
 }
 
 readMetroTxt()
+readPosPointsTxt()
 writeDataToJson("metro.json")
 
 /**export const readMetroJson = () => {
