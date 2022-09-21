@@ -1,33 +1,39 @@
 import React, {useCallback, useEffect, useRef, useState} from 'react'
 import {useMetro} from "./hooks";
-import {Dropdown} from "./components";
-import Canvas from "./components/src/Canvas";
+import {Dropdown, Canvas} from "./components";
 import Station from "./api/Station";
+import Path from "./api/Path";
 
 function App() {
 
     const [depart, setDepart] = useState<Station | null>(null)
     const [arrival, setArrival] = useState<Station | null>(null)
+    const [path, setPath] = useState<Path[] | null>(null)
 
+    const {station, dijkstra} = useMetro()
 
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
-        console.log("submit")
+        if (depart !== null && arrival !== null) {
+            setPath(dijkstra(depart, arrival))
+        } else {
+            alert("Please select a departure and arrival station")
+        }
     }
 
     const isValid = depart !== null && arrival !== null
-
-    const {station} = useMetro()
 
 
     return (
         <div className="App">
             <form onSubmit={handleSubmit}>
-                <Dropdown handleSelect={setDepart} stations={station} />
-                <Dropdown handleSelect={setArrival} stations={station} />
+                <h2>Départ</h2>
+                <Dropdown handleSelect={setDepart} stations={station}/>
+                <h2>fin</h2>
+                <Dropdown handleSelect={setArrival} stations={station}/>
                 {isValid && <button type="submit">Rechercher</button>}
             </form>
-            <Canvas />
+            <Canvas path={path}/>
         </div>
     )
 }

@@ -43,10 +43,12 @@ export const Dropdown = ({handleSelect,stations}: DropDownProps) => {
                 backgroundColor: "#9b4dca",
                 border: "0.1rem solid #9b4dca",
                 position: "absolute",
-                padding: "1rem"
+                padding: "1rem",
+                maxHeight : "25rem",
+                overflowY: "scroll",
             }}>
                 {stations.filter(handleFilter).map((s) => {
-                    return <li style={{
+                    return <li key={`${s.info.name}-m-${s.info.id}`} style={{
                         cursor: "pointer",
                         color: "white"
                     }}

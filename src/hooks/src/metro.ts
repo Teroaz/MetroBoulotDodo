@@ -39,6 +39,7 @@ export const useMetro = () => {
     return {
         station,
         line,
-        path
+        path,
+        dijkstra : Metro.dijkstra
     }
 }
