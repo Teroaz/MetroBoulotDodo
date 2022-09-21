@@ -24,7 +24,8 @@ export const readMetroTxt = (filename: string = "metro.txt") => {
                 id: Number(num),
                 name,
                 isTerminus: isTerminus === "True",
-                branchementType: Number(branchementType)
+                branchementType: Number(branchementType), 
+            coordinates: {x:-1,y:-1}
             });
             stations.push(station);
             let line = lines.find(line => line.info.name === lineNum);
