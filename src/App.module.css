@@ -1,0 +1,24 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    align-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.panel {
+    height: 600px;
+}
+
+.submit {
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    margin-top: 0;
+    font-weight: bold!important;
+
+}
