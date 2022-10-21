@@ -5,6 +5,7 @@ specifiers:
   '@types/react': ^18.0.17
   '@types/react-dom': ^18.0.6
   '@vitejs/plugin-react': ^2.1.0
+  disjoint-set-ds: ^1.0.1
   milligram: ^1.4.1
   react: ^18.2.0
   react-dom: ^18.2.0
@@ -14,6 +15,7 @@ specifiers:
 
 dependencies:
   '@types/node': 18.7.15
+  disjoint-set-ds: 1.0.1
   milligram: 1.4.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -472,6 +474,10 @@ packages:
     dependencies:
       ms: 2.1.2
     dev: true
+
+  /disjoint-set-ds/1.0.1:
+    resolution: {integrity: sha512-bWpDqFyFM8qCtuAGyGjsr8oytoFO4GNargvwzCp8ny7jRQOgxhjgn1YG6fUKBP1fldFlIkHSv8OT/Xa8RnJF0A==}
+    dev: false
 
   /electron-to-chromium/1.4.243:
     resolution: {integrity: sha512-BgLD2gBX43OSXwlT01oYRRD5NIB4n3okTRxkzEAC6G0SZG4TTlyrWMjbOo0fajCwqwpRtMHXQNMjtRN6qpNtfw==}

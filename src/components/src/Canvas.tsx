@@ -8,7 +8,7 @@ export type CanvasProps = {
 	mode: "dijkstra" | "kruskal" | "exploration"
 }
 
-export function Canvas({path = null, mode}: CanvasProps) {
+export function Canvas({path, mode}: CanvasProps) {
 
 	const ref = useRef<HTMLCanvasElement | null>(null)
 
@@ -26,13 +26,18 @@ export function Canvas({path = null, mode}: CanvasProps) {
 			const context = ref.current.getContext('2d');
 			context!.clearRect(0, 0, ref.current.width, ref.current.height);
 
-			stations.forEach((s) => {
-				console.log(s.info.name)
-				context?.beginPath();
-				context!.fillStyle = s.metroLine!.info.color;
+			const centerPosition = {x: ref.current.width / 2, y: ref.current.height / 2}
 
-				if (s.info.isTerminus || mode === "dijkstra" && path?.some(({info}) => [info.first.info.id, info.second.info.id].includes(s.info.id))) {
-					context!.fillText(s.info.name, s.info.coordinates.x, s.info.coordinates.y - 20)
+			stations.forEach((s) => {
+				context?.beginPath();
+				context!.fillStyle = s.metroLine?.info.color || "black";
+
+				if (s.info.isTerminus) {
+					const x_coeff = s.info.coordinates.x - centerPosition.x > 0 ? 1 : -1
+					const y_coeff = s.info.coordinates.y - centerPosition.y > 0 ? 1 : -1
+
+					context!.fillText(s.info.name, s.info.coordinates.x + 10 * x_coeff - 50, s.info.coordinates.y + 20 * y_coeff )
+
 					context?.arc(s.info.coordinates.x, s.info.coordinates.y, 8, 0, 2 * Math.PI);
 				} else {
 					context?.arc(s.info.coordinates.x, s.info.coordinates.y, 3, 0, 2 * Math.PI);
@@ -69,7 +74,7 @@ export function Canvas({path = null, mode}: CanvasProps) {
 		}
 
 
-	}, [dataLoaded, nearestStationToMouse])
+	}, [dataLoaded, nearestStationToMouse, path, mode])
 
 
 	return (

@@ -24,11 +24,11 @@ export const Dropdown = ({handleSelect}: DropDownProps) => {
 
     }
 
-    const handleFilter = (station: Station) => station.info.name.toLowerCase().includes(selected.toLowerCase()) || station.metroLine?.info.name.toLowerCase().includes(selected.toLowerCase())
+    const handleFilter = (station: Station) => `${station.metroLine?.info.name.toLowerCase()} - ${station.info.name.toLowerCase()}`.includes(selected.toLowerCase())
 
     const handleAdd = (station: Station) => {
         handleSelect(station)
-        setSelected(`${station.info.name} M${station?.metroLine?.info.name}`)
+        setSelected(`${station?.metroLine?.info.name} - ${station.info.name}`)
         setOpen(false)
     }
 
