@@ -6,6 +6,7 @@ import styles from './App.module.css';
 import {MetroProvider} from "./hooks";
 import {Metro} from "./api/Metro";
 import {TimeUtils} from "./utils/TimeUtils";
+import Line from "./api/Line";
 import secondsToFormattedTime = TimeUtils.secondsToFormattedTime;
 
 function App() {
@@ -14,31 +15,39 @@ function App() {
 	const [arrival, setArrival] = useState<Station | null>(null)
 	const [path, setPath] = useState<Path[] | null>(null)
 	const [mode, setMode] = useState<"dijkstra" | "kruskal" | "exploration">("exploration")
-
-	const time = mode == "dijkstra" && path?.reduce((acc, p) => acc + p.info.time, 0) || 0
 	
-	const [structuredPath, setStructuredPath] = useState<Record<string, Station[]>>({});
+	const time = path?.reduce((acc, p) => acc + p.info.time, 0) || 0
+	
+	const [structuredPath, setStructuredPath] = useState<Array<{ line: Line, stations: Station[] }>>();
 	
 	const giveStructuredPath = () => {
 		if (path === null) return
 		
 		let currentStation = path[0].info.first === depart ? path[0].info.first : path[0].info.second
+		let currentLine = currentStation.metroLine
 		
-		const groupedPath = path.reduce((acc, p) => {
-			const metroLine = p.info.first.metroLine?.info.name || "undefined"
-			if (acc[metroLine] === undefined) {
-				acc[metroLine] = []
-			}
+		const structuredPath: Array<{ line: Line, stations: Station[] }> = []
 		
-			if (acc[metroLine].at(-1) !== currentStation) {
-				acc[metroLine].push(currentStation)
-				currentStation = p.info.first === currentStation ? p.info.second : p.info.first
+		path.forEach(p => {
+			const nextStation = p.info.first === currentStation ? p.info.second : p.info.first
+			const nextLine = nextStation.metroLine
+			if (!nextLine || !currentLine) return
+			
+			if (nextLine === currentLine) {
+				if (structuredPath.length === 0) {
+					structuredPath.push({line: currentLine, stations: [currentStation, nextStation]})
+				} else {
+					structuredPath[structuredPath.length - 1].stations.push(nextStation)
+				}
+			} else {
+				structuredPath.push({line: nextLine, stations: [nextStation]})
 			}
 			
-			return acc
-		}, {} as {[key: string]: Station[]})
+			currentStation = nextStation
+			currentLine = nextLine
+		})
 		
-		setStructuredPath(groupedPath)
+		setStructuredPath(structuredPath)
 	}
 	
 	useEffect(() => {
@@ -80,12 +89,19 @@ function App() {
 						<Dropdown handleSelect={setArrival}/>
 						<div className={styles.submit}>
 							<button type="submit" onClick={(e) => handleDijkstra(e)} disabled={!isValid}>Rechercher</button>
-							<button type="submit" onClick={(e) => handleKruskal(e)}>Arbre couvrant
+							<button type="submit" onClick={(e) => handleKruskal(e)} disabled={mode === "kruskal"}>Arbre couvrant
 							</button>
 						</div>
 					</form>
-					{time > 0 && <p>Temps de trajet : {secondsToFormattedTime(time)}</p>}
-					{JSON.stringify(structuredPath)}
+					{time > 0 && <h3>Temps de trajet : {secondsToFormattedTime(time)}</h3>}
+					{mode === "dijkstra" && structuredPath?.map((p, i) => (
+						<div key={i}>
+							<div style={{backgroundColor: p.line.info.color, fontSize: "30px", color: "white", fontWeight: "bold"}}>{p.line.info.name}</div>
+							{p.stations.map((s, i) => (
+								<div key={i} style={{marginLeft: "30px"}}>{s.info.name}</div>
+							))}
+						</div>
+					))}
 				</div>
 				
 				<Canvas path={path} mode={mode}/>
