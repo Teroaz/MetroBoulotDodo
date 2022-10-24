@@ -32,7 +32,7 @@ export function Canvas({path, mode}: CanvasProps) {
 				context?.beginPath();
 				context!.fillStyle = s.metroLine?.info.color || "black";
 				
-				if (s.info.isTerminus) {
+				if (s.info.isTerminus || nearestStationToMouse === s) {
 					const x_coeff = s.info.coordinates.x - centerPosition.x > 0 ? 1 : -1
 					const y_coeff = s.info.coordinates.y - centerPosition.y > 0 ? 1 : -1
 					

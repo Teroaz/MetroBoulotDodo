@@ -94,16 +94,18 @@ function App() {
 						</div>
 					</form>
 					{time > 0 && <h3>Temps de trajet : {secondsToFormattedTime(time)}</h3>}
-					<div style={{overflowY: "scroll", height: "500px"}}>
-					{mode === "dijkstra" && structuredPath?.map((p, i) => (
-						<div key={i}>
-							<div style={{backgroundColor: p.line.info.color, fontSize: "30px", color: "white", fontWeight: "bold"}}>{p.line.info.name}</div>
-							{p.stations.map((s, i) => (
-								<div key={i} style={{marginLeft: "30px"}}>{s.info.name}</div>
-							))}
-						</div>
-					))}
+					
+					{mode === "dijkstra" && <div style={{overflowY: "scroll", height: "500px"}}>
+						{structuredPath?.map((p, i) => (
+							<div key={i}>
+								<div style={{backgroundColor: p.line.info.color, fontSize: "30px", color: "white", fontWeight: "bold"}}>{p.line.info.name}</div>
+								{p.stations.map((s, i) => (
+									<div key={i} style={{marginLeft: "30px"}}>{s.info.name}</div>
+								))}
+							</div>
+						))}
 					</div>
+					}
 				</div>
 				
 				<Canvas path={path} mode={mode}/>
