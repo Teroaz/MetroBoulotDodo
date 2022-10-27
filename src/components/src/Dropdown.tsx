@@ -43,7 +43,7 @@ export const Dropdown = ({handleSelect}: DropDownProps) => {
 
     return (
         <div>
-            <input onClick={handleToggle} onChange={handleSelected} placeholder={"Saisir la ligne ou la station"}
+            <input onBlur={() => setOpen(false)} onClick={handleToggle} onChange={handleSelected} placeholder={"Saisir la ligne ou la station"}
                    value={selected} type="text"/>
             {open && <ul>
                 {stations.filter(handleFilter).map((s) =>
